@@ -1,0 +1,57 @@
+set nu                          " Numeros das linhas
+colorscheme desert              " Esquema de Cores
+syntax on                       " Cores
+set guifont=IBM_Plex_Mono:h11   " Fonte
+
+" Arquivos temporários irritantes
+set directory^=$HOME/vim/tmp//
+" Opções da busca
+set smartcase    " Busca inteligente com maiúsculas
+set incsearch    " Busca instantanea enquanto digita
+set ignorecase   " Busca Sem se preocupar com maiusculas e minusculas
+
+set hlsearch
+
+set guioptions -=m      " Desabilitar menu
+set guioptions -=L      " Desabilitar menu
+set guioptions -=r      " Desabilitar scroll da direita
+set guioptions -=T      " Desabilitar menus
+set autoindent      	" Auto-indent new lines
+set expandtab   	" Use spaces instead of tabs
+set shiftwidth=4	" Number of auto-indent spaces
+set smartindent  	" Enable smart-indent
+set smarttab	        " Enable smart-tabs
+set softtabstop=4	" Number of spaces per Tab
+set linebreak
+" Habilitar caracteres especiais
+set encoding=utf-8
+set fileencoding=utf-8
+
+set spelllang=pt
+" Mapeamento de teclas
+map <F6> :set spell<CR>
+map <F2> :NERDTreeToggle <CR>
+map <F11> :Goyo 80%x95%<CR>
+nnoremap tbl :TableModeToggle<CR>
+imap <C-e> <Esc>
+
+
+" Jeito de usar a tabela
+let g:table_mode_corner='|'
+let g:table_mode_header_fillchar=' '
+let g:table_mode_fillchar=' '
+
+" Opacidade do modo de distração
+let g:limelight_default_coefficient=0.8 
+let g:goyo_width=120
+
+" Setando Goyo para funcionar com o Limelight
+autocmd! User GoyoEnter Limelight
+autocmd! User GoyoLeave Limelight!
+
+call plug#begin('~/vimfiles/plugged')
+Plug 'scrooloose/nerdtree' | Plug 'Xuyuanp/nerdtree-git-plugin' " NERDTree com git
+Plug 'junegunn/vim-plug'  " plug-vim com ajudas
+Plug 'ycm-core/YouCompleteMe'   " youcompleteme
+call plug#end()
+
