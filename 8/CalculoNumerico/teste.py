@@ -1,25 +1,24 @@
 import math
 
-
 e=math.e
 # e**(2*x)-e**x-2
 # 2*e**(2*x)-e**x
 
-print("A express√£o √© colocada dentro do script, este programa √© s√≥ para rodar diferentes m√©todos")
-# print("Escolha o m√©todo:")
+print("A express„o È colocada dentro do script, este programa È sÛ para rodar diferentes mÈtodos")
+# print("Escolha o mÈtodo:")
 print("(1)   Secante")
 print("(2)   Tangente")
-# print("(3)   Bissec√ß√£o")
-# print("(4)   Falsa posi√ß√£o")
+# print("(3)   BissecÁ„o")
+# print("(4)   Falsa posiÁ„o")
 b=input()
 
 
 
-if(b       == str(1)):
+if(b == str(1)):
     # Fun√ß√µes
     x       = float(input("x1:"))
     x1      = float(input("x2:"))
-    i       = int(input("itera√ßoes:"))
+    i       = int(input("iteraÁoes:"))
     for a in range(1,i+1):
         f1  = e**(2*x1)-e**x1-2
         f   = e**(2*x)-e**x-2
@@ -29,7 +28,7 @@ if(b       == str(1)):
         x1  = x2
 elif(b==str(2)):
     x       = float(input("x1:"))
-    i       = int(input("itera√ßoes:"))
+    i       = int(input("iteraÁoes:"))
     for a in range(1, i+1):
         f       = e**(2*x)-e**x-2
         fder    = 2*e**(2*x)-e**x
@@ -38,19 +37,3 @@ elif(b==str(2)):
         x = xnext
 
 input("\n\n\nPressione Enter para sair")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
