@@ -90,7 +90,7 @@ Com todas as regiões calculadas, basta estipular os melhores valores possíveis
 
 Os quesitos para a conclusão do unifilar(se quiserem conferir e mandar alguma observação fiquem à vontade):
 
-- [?] Apresentação folha padrão ABNT com margem e legenda
+- [x] Apresentação folha padrão ABNT com margem e legenda
 - [x] Indicação e identificação das SE's
 - [ ] Indicação e identificação dos trafos (potência e tensões pelo menos)
 - [x] Indicação do esquema de aterramento adotado em cada trafo
@@ -98,9 +98,9 @@ Os quesitos para a conclusão do unifilar(se quiserem conferir e mandar alguma o
 - [x] Indicação e identificação dos quadros terminais de cargas
 - [x] Indicação, identificação e especificação do grupo motor gerador
 - [x] Indicação, identificação e ligações do QTA
-- [?] Indicação dos alimentadores de M.T
-- [?] Indicação dos alimentadores de B.T
-- [ ] Indicação, identificação e especificação dos bancos de capacitores
+- [x] Indicação dos alimentadores de M.T
+- [x] Indicação dos alimentadores de B.T
+- [x] Indicação, identificação e especificação dos bancos de capacitores
 - [x] Indicação, identificação e especificação da usina fotovoltaica (até inversores)
 - [x] identifição do nobreak
 
