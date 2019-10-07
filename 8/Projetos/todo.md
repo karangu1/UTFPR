@@ -106,15 +106,15 @@ Os quesitos para a conclusão do unifilar(se quiserem conferir e mandar alguma o
 
 Gerações de energia no estabelecimento
 
-| Lugar       | subestacao | Usina                  | ok  |
-|-------------|------------|------------------------|-----|
-| fabrica 1   | SE1        | 500 paineis 325W       | [x] |
-| centro conv | SE2        | nada                   | [x] |
-| f_02        | SE3        | 150 paineis de 325W    | [x] |
-| dep1 e 2    | SE4        | nada                   | [x] |
-| oficina     | SE5        | 150 Fotovoltaicos 325W | [x] |
-| lab         | SE6        | geracao diesel (40kVA) | [x] |
-| adm         | SE7        | geracao propria rampa  | [x] |
+| Lugar         | subestacao   | Usina                    | ok    |
+| :-----------: | ------------ | ------------------------ | ----- |
+| fabrica 1     | SE1          | 500 paineis 325W         | [x]   |
+| centro conv   | SE2          | nada                     | [x]   |
+| f_02          | SE3          | 150 paineis de 325W      | [x]   |
+| dep1 e 2      | SE4          | nada                     | [x]   |
+| oficina       | SE5          | 150 Fotovoltaicos 325W   | [x]   |
+| lab           | SE6          | geracao diesel (40kVA)   | [x]   |
+| adm           | SE7          | geracao propria rampa    | [x]   |
 
 
 
