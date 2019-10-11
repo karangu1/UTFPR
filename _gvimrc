@@ -1,57 +1,60 @@
-set nu                          " Numeros das linhas
-colorscheme desert              " Esquema de Cores
-syntax on                       " Cores
-set guifont=IBM_Plex_Mono:h11   " Fonte
-
-" Arquivos temporários irritantes
-set directory^=$HOME/vim/tmp//
-" Opções da busca
-set smartcase    " Busca inteligente com maiúsculas
-set incsearch    " Busca instantanea enquanto digita
-set ignorecase   " Busca Sem se preocupar com maiusculas e minusculas
-
-set hlsearch
-
-set guioptions -=m      " Desabilitar menu
-set guioptions -=L      " Desabilitar menu
-set guioptions -=r      " Desabilitar scroll da direita
-set guioptions -=T      " Desabilitar menus
-set autoindent      	" Auto-indent new lines
-set expandtab   	" Use spaces instead of tabs
-set shiftwidth=4	" Number of auto-indent spaces
-set smartindent  	" Enable smart-indent
-set smarttab	        " Enable smart-tabs
-set softtabstop=4	" Number of spaces per Tab
-set linebreak
-" Habilitar caracteres especiais
+colo desert 
+syntax on
+set nu
+set textwidth=0
+set guifont=Consolas:h13
 set encoding=utf-8
-set fileencoding=utf-8
+set fileencodings=utf-8
+set guioptions -=T
+set guioptions -=r
+set guioptions -=m
+set guioptions -=e
+set guioptions -=L
 
-set spelllang=pt
-" Mapeamento de teclas
-map <F6> :set spell<CR>
-map <F2> :NERDTreeToggle <CR>
-map <F11> :Goyo 80%x95%<CR>
-nnoremap tbl :TableModeToggle<CR>
-imap <C-e> <Esc>
+" Mudar arquivos temporários de lugar
+set directory^=$HOME/vim/tmp//
 
-
-" Jeito de usar a tabela
+let g:limelight_default_coefficient = 0.85
 let g:table_mode_corner='|'
-let g:table_mode_header_fillchar=' '
-let g:table_mode_fillchar=' '
 
-" Opacidade do modo de distração
-let g:limelight_default_coefficient=0.8 
-let g:goyo_width=120
+set autoindent       " Auto-indent new lines
+set expandtab        " Use spaces instead of tabs
+set shiftwidth=4     " Number of auto-indent spaces
+set smartindent      " Enable smart-indent
+set smarttab         " Enable smart-tabs
+set softtabstop=4    " Number of spaces per Tab
+set backspace=indent,eol,start  " Backspace behaviour
+set linebreak        " Faz com que a linha quebre e nao mude a numeração
+  
+set ignorecase       " Busca inteligente
+set incsearch        " Busca interativa
+set smartcase        " Busca inteligente com maiúsculas
+set hlsearch         " Marca todas as ocorrencias  
+  
+set spelllang=pt  
+" Mapeamento
+map <F2> :NERDTreeToggle <CR>
+map <F3> :echo 'Horas ' . strftime('%c') <CR>
+map <F6> :set spell<CR>
+map <C-A> :browse confirm e<cr>
+map tbl :TableModeToggle<cr>
+map <S-F6> ]s  
+map <F11> :Goyo 70%x95%<cr>
 
-" Setando Goyo para funcionar com o Limelight
-autocmd! User GoyoEnter Limelight
-autocmd! User GoyoLeave Limelight!
+autocmd GUIEnter * silent! WToggleClean     " para iniciar bonitinho ja 
 
-call plug#begin('~/vimfiles/plugged')
-Plug 'scrooloose/nerdtree' | Plug 'Xuyuanp/nerdtree-git-plugin' " NERDTree com git
-Plug 'junegunn/vim-plug'  " plug-vim com ajudas
-Plug 'ycm-core/YouCompleteMe'   " youcompleteme
-call plug#end()
+let g:NERDTreeIndicatorMapCustom = {
+    \ "Modified"  : "✹",
+    \ "Staged"    : "✚",
+    \ "Untracked" : "✭",
+    \ "Renamed"   : "➜",
+    \ "Unmerged"  : "═",
+    \ "Deleted"   : "✖",
+    \ "Dirty"     : "✗",
+    \ "Clean"     : "✔︎",
+    \ 'Ignored'   : '☒',
+    \ "Unknown"   : "?"
+    \ }
+let g:NERDTreeDirArrowExpandable = '►'
+let g:NERDTreeDirArrowCollapsible = '▼'
 

@@ -46,10 +46,10 @@ Para os depósitos, foi considerado que as cargas de iluminação e de TUGs est�
 O ponto de referencia para a região da oficina foi o canto inferior direito do local, usando as posições relativas de 'x' e de 'y':
 
 $$ Pos_x = \frac{\sum{Dem_i.X_i}}{\sum{Dem}} $$
-$$ Pos_x = \frac{7360.22,7+47368,42.70,31+63157,89.9,24+22080.0}{139966}$$
+$$ Pos_x = \frac{7360.22,7+47368,42.70,31+63157,89.9,24+22080.0}{139966} $$
 $$ Pos_x = 29,16 $$
 $$ Pos_y = \frac{\sum{Dem_i.y_i}}{\sum{Dem}} $$
-$$ Pos_y = \frac{7360.0+47368,42.0+63157,89.52.83+22080.98.52}{139966}$$
+$$ Pos_y = \frac{7360.0+47368,42.0+63157,89.52.83+22080.98.52}{139966} $$
 $$ Pos_y = 39,38 $$
 
 ## SE6
@@ -106,15 +106,15 @@ Os quesitos para a conclusão do unifilar(se quiserem conferir e mandar alguma o
 
 Gerações de energia no estabelecimento
 
-| Lugar       | subestacao | Usina                  | ok  |
-|-------------|------------|------------------------|-----|
-| fabrica 1   | SE1        | 500 paineis 325W       | [x] |
-| centro conv | SE2        | nada                   | [x] |
-| f_02        | SE3        | 150 paineis de 325W    | [x] |
-| dep1 e 2    | SE4        | nada                   | [x] |
-| oficina     | SE5        | 150 Fotovoltaicos 325W | [x] |
-| lab         | SE6        | geracao diesel (40kVA) | [x] |
-| adm         | SE7        | geracao propria rampa  | [x] |
+| Lugar         | subestacao   | Usina                    | ok    |
+| :-----------: | ------------ | ------------------------ | ----- |
+| fabrica 1     | SE1          | 500 paineis 325W         | [x]   |
+| centro conv   | SE2          | nada                     | [x]   |
+| f_02          | SE3          | 150 paineis de 325W      | [x]   |
+| dep1 e 2      | SE4          | nada                     | [x]   |
+| oficina       | SE5          | 150 Fotovoltaicos 325W   | [x]   |
+| lab           | SE6          | geracao diesel (40kVA)   | [x]   |
+| adm           | SE7          | geracao propria rampa    | [x]   |
 
 
 
