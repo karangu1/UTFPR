@@ -71,16 +71,16 @@ Para o bloco administrativo, foi considerado que as cargas de iluminação e de 
 
 Com todas as regiões calculadas, basta estipular os melhores valores possíveis para cada subestação, e com esses valores, encontrar a melhor localização do ponto de entrega. A tabela a seguir apresenta os valores calculados (posições relativas já citadas) e os valores optados(posição total, com a origem no canto inferior direito da planta baixa).
 
-| Local                 | SE | x calc | y calc | x real | y real |
-|-----------------------|----|--------|--------|--------|--------|
-| Fabrica 1             | 1  | 155,92 | 37,96  | 665    | 191,5  |
-| Centro de convivência | 2  | 27,60  | 84,39  | 1087,8 | 690,7  |
-| Fábrica 2             | 3  | 31,48  | 49,39  | 135,22 | 436,36 |
-| Depósitos 1 e 2       | 4  | 125,51 | 307,76 | 125    | 308    |
-| Oficina               | 5  | 29,16  | 39,38  | 1087,8 | 690,7  |
-| Laboratório           | 6  | 11,02  | 16,56  | 8      | 170    |
-| Administrativo        | 7  | 322,11 | 109.89 | 322,11 | 109.89 |
-| Ponto de Entrega      |    | 398,8  | 337,33 | 374.56 | 10     |
+|         Local         | SE | x calc | y calc |  x real | y real |
+|:---------------------:|----|-------:|-------:|--------:|-------:|
+|       Fabrica 1       | 1  | 155,92 |  37,96 |  665,00 | 191,50 |
+| Centro de convivência | 2  |  27,60 |  84,39 | 1087,80 | 690,70 |
+|       Fábrica 2       | 3  |  31,48 |  49,39 |  135,22 | 436,36 |
+|    Depósitos 1 e 2    | 4  | 125,51 | 307,76 |  125,00 | 308,00 |
+|        Oficina        | 5  |  29,16 |  39,38 | 1087,80 | 690,70 |
+|      Laboratório      | 6  |  11,02 |  16,56 |    8,00 | 170,00 |
+|     Administrativo    | 7  | 322,11 | 109.89 |  322,11 | 109,89 |
+|    Ponto de Entrega   |    |  398,8 | 337,33 |  374.56 |  10,00 |
 
 
 
