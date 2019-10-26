@@ -12,5 +12,9 @@ As células, em ofício, não produzem gases ou efluentes, fazendo assim com que
 
 ## Efeito fotovoltaico 
 
-A célula fotovoltaica tem seu funcionamento oriundo do efeito fotovoltaico, também chamado de salto quântico. 
+Atualmente, muito é falado a respeito da energia solar e sua geração com os painéis e módulos fotovoltaicos. Há muitas pesquisas nesse meio, com objetivos como tornar a tecnologia mais próxima do público. A unidade mais simples para a formação dos módulos são as células. 
+
+A célula fotovoltaica tem seu funcionamento oriundo do efeito fotovoltaico. Este fenômeno é mais antigo do que a maioria das pessoas pensam. Em 1839, Edmond Becquerel percebeu a geração de energia a partir de luz solar incidindo em placas de latão submersas em um líquido eletrólito [@referencia]. Mais tarde, então, Charles Frittts foi capaz de inventar a primeira bateria de luz solar, feita com base em selênio(já um semicondutor).
+
+O 
 
