@@ -51,3 +51,21 @@
 | Cinnamon Roll                    |           Turtle |
 | Rainbow Cookie                   |          Unicorn |
 | Apple Pie                        |             Wolf |
+
+
+
+
+| Strawberry Cocktail              |             Crab |
+| Bread                            |      Bark Beetle |
+| Date Cookie                      |            Camel |
+| Candied Apple                    |            Horse |
+| Chocolate Donut                  |             Mole |
+| Apple Ring                       |        Crocodile |
+| Sugar Candy                      |         Duckbill |
+| Chocolate Cookie                 |          Peacock |
+| Mint Chocolate Bar               |      Leaf Runner |
+| Blood Orange Juice               |         Mosquito |
+| Mango Juice                      |              Bat |
+| Ginger Tartlet                   |           Parrot |
+| Popcorn                          |           Hornet |
+| Blackberry Marmalade             |        Porcupine |
