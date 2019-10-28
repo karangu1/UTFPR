@@ -1,0 +1,65 @@
+1 Komp, R. J. Practical photovoltaics: eletricity from solar cells, 3a. ed., aatec publications: Ann Arbor, 2001.
+2 Smestad, G. P. Optoelectronics of solar cells, 1a. ed., SPIE: Bellingham, 2002.
+3 Grätzel, M. Photoelectrochemical cells.  Nature 2001, 414, 338. [CrossRef] [PubMed]
+4 Hagfeldt, A.; Boschloo, G.; Sun, L.; Kloo, L; Pettersson, H. Dye-Sensitized Solar Cells.  Chemical Reviews 2010, 110, 6595. [CrossRef] [PubMed]
+5 Service, R. F. Is It Time to Shoot for the Sun?  Science 2005, 309, 548. [CrossRef] [PubMed]
+6 Schiermeier, Q.; Tollefson, Jeff.; Scully, T.; Witze, A.; Morton, O. Electricity without carbon. Nature 2008, 454, 816. [CrossRef] [PubMed]
+7 Sítio do Centro de Referência para Energia Solar e Eólica Sérgio de Salvo Brito – Perguntas Frequentes – FAQ Solar. Disponível em:
+<http://www.cresesb.cepel.br/content.php?c atid%5B%5D=2&catid%5B%5D=5>. Acesso em: 17 janeiro 2014.
+8 Sítio da Associação Brasileira da Indústria Elétrica e Eletrônica – Proposta para inserção da energia solar fotovoltaica na matriz elétrica brasileira. Disponível em:
+<http://www.abinee.org.br/informac/arquiv os/profotov.pdf>. Acesso em: 22 janeiro 2014.
+9 Sítio da Empresa de Pesquisa Energética – Anuário Estatístico de Energia Elétrica 2013.  Disponível em:
+<http://www.epe.gov.br/AnuarioEstatisticod eEnergiaEletrica/Forms/Anurio.aspx>. Acesso em: 22 janeiro 2014.
+10 Sítio da Agência Nacional de Energia Elétrica – Resolução Normativa Nº 482, de 17 de Abril de 2012. Disponível em:
+<http://www.aneel.gov.br/cedoc/ren201248 2.pdf>. Acesso em: 22 janeiro 2014.
+11 Mori, V.; Santos, R. L. C.; Sobral, L. G. S.  Metalurgia do silício: processos de obtenção e impactos ambientais, 1a. ed., CETEM/MCT: Rio de Janeiro, 2007.
+12 Green, M. A. Crystalline silicon photovoltaic cells. Advanced Materials 2001, 13, 1019. [CrossRef]
+13 Sítio do MIT Open Course Ware – Fundamentals of Photovoltaics / Fall 2008.  Disponível em:
+<http://ocw.mit.edu/courses/mechanicalengineering/2-626-fundamentals-ofphotovoltaics-fall-2008/lecturenotes/lecture9.pdf>. Acesso em: 12 fevereiro 2014.
+14 Guimarães, A. P. C.; Ribeiro, C. M.; Bastos, L. E. G.; Valente, L. C. G.; Silva, P. C.; Oliveira, L. X. Manual de engenharia para sistemas fotovoltaicos, edição especial, CRESESB: Rio de Janeiro, 1999.  15 Sítio da Tecnometal. Disponível em: <http://www.tecnometalenergiasolar.com.br /index.html>. Acesso em: 22 janeiro 2014.
+16 Sítio do Departamento de Energia dos Estados Unidos. Disponível em:
+<http://energy.gov/eere/energybasics/article s/photovoltaic-silicon-cell-basics>. Acesso em: 12 fevereiro 2014.
+17 Staebler, D. L.; Wronski, C. R. Optically induced conductivity changes in dischargeproduced hydrogenated amorphous silicon.  Journal of Applied Physics 1980, 51, 3262.  [CrossRef]
+18 Sítio do Departamento de Energia dos Estados Unidos. Disponível em:
+<http://www1.eere.energy.gov/solar/sunsho t/pv_asi.html>. Acesso em 20 junho 2013
+19 Konagai, M. Present status and future prospects of silicon thin-film solar cells.  Japanese Journal of Applied Physics 2011, 50, 1. [CrossRef]
+20 Carlson, D. E.; Wronski, C. R. Amorphous silicon solar cell. Applied Physics Letters 1976, 28, 671. [CrossRef]
+21 Staebler, D. L.; Wronski, C. R. Reversible conductivity changes in discharge produced amorphous Si. Applied Physics Letters 1977, 31, 292. [CrossRef]
+22 Sítio do National Renewable Energy Laboratory – 2010 Solar Technologies Market Report. Disponível em:
+< http://www.nrel.gov/docs/fy12osti/51847.pd f>. Acesso em: 22 janeiro 2014 Machado, C. T.; Miranda, F. S.  Rev. Virtual Quim. |Vol 7| |No. 1| |126-143| 142
+23 Bosio, A.; Menossi, D.; Mazzamuto, S.; Romeo, N. Manufacturing of CdTe thin film photovoltaic modules. Thin Solid Films 2011, 519, 7522. [CrossRef]
+24 Kim, S.; Chung, J.-W.; Lee, H.; Park, J.; Heo, Y.; Lee, H.-M. Remarkable progress in thinfilŵ siliĐoŶ solaƌ Đells usiŶg high-effiĐieŶĐy triple-junction technology. Solar Energy Materials and Solar Cells 2013, 119, 26.  [CrossRef]
+25 Sítio do Departamento de Energia dos Estados Unidos – SunShot Vision Study, February 2012. Disponível em: <
+http://www1.eere.energy.gov/solar/pdfs/47 927.pdf>. Acesso em 22 janeiro 2014.
+26 Colombo, E.; Bosio, A.; Calusi, S.; Giuntini, L.; Lo Giudice, A.; Manfredotti, C.; Massi, M.; Olivero, P.; Romeo, A.; Romeo, N.; Vittone, E.  Artigo: IBIC analysis of CdTe/CdS solar cells.  Nuclear Instruments and Methods in Physics Research B 2009, 267, 2181. [CrossRef]
+27 Kamat, P. V. Quantum dot solar cells.  Semiconductor nanocrystals as light harvesters. The Journal of Physical Chemistry C 2008, 112, 18737. [CrossRef]
+28 Greenham, N. C. Polymer solar cells.  Philosophical Transactions of the Royal Society A 2013, 371, 1. [CrossRef] [PubMed]
+29 Brabec, C. J.; Durrant, J. R. Solutionprocessed organic solar cells. Materials Research Society Bulletin 2008, 33, 670.  [CrossRef]
+30 Hau, S. K.; Yip, H.-L.; Jen, A. K.-Y. A review on the development of the inverted polymer solar cells architecture. Polymer Reviews 2010, 50, 474. [CrossRef]
+31 Su, Y.-W.; Lan, S.-C.; Wei, K.-H. Organic photovoltaics. Materials Today 2012, 15, 554.  [CrossRef]
+32 Small, C. E.; Chen, S.; Subbiah, J.; Amb, C.  M.; Tsang, S.-W.; Lai, T.-H.; Reynolds, J. R.; So, F. High-efficiency inverted dithienogermole– thienopyrrolodione based polymer solar cells.  Nature Photonics 2012, 6, 115. [CrossRef]
+33 He, Z.; Zhong, C.; Su, S.; Xu, M.; Wu, H.; Cao, Y. Enhanced power-conversion efficiency in polymer solar cells using an inverted device structure. Nature Photonics 2012, 6, 591. [CrossRef]
+34 Günes, S.; Neugebauer, H.; Sariciftci, N. S.  Conjugated Polymer-Based Organic Solar Cells. Chemical Reviews 2007, 107, 1324.  [CrossRef] [PubMed]
+35 Clarke, T. M.; Durrant, J. R. Charge Photogeneration in Organic Solar Cells.  Chemical Reviews 2010, 110, 6736. [CrossRef] [PubMed]
+36 O’RegaŶ, B.; Grätzel, M. A low-cost, highefficiency solar cell based on dye-sensitized colloidal TiO2 films. Nature 1991, 353, 737.  [CrossRef]
+37 Jena, A.; Mohanty, S. P.; Kumar, P.; Naduvath, J.; Gondane, V.; Lekha P.; Das, J.; Narula, H. K.; Mallick, S.; Bhargava, P. Dye sensitized solar cells: A review. Transactions of the Indian Ceramic Society 2012, 71, 1.  [CrossRef]
+38 Ito, S.; Chen, P.; Comte, P.; Nazeeruddin, M. K.; Liska, P.; Péchy, P.; Grätzel, M.  Fabrication of screen-printing pastes from TiO2 powders for dye-sensitised solar cells.  Progress in Photovoltaics: Research and Applications 2007, 15, 603. [CrossRef]
+39 Lin, C.-J.; Yu, W.-Y.; Chien, S.-H.  Transparent electrodes of ordered openedend TiO2-nanotube arrays for highly efficient dye-sensitized solar cells. Journal of Materials Chemistry 2010, 20,1073. [CrossRef]
+40 Parussulo, A. L. A.; Iglesias, B. A.; Toma, H.  E.; Araki, K. Sevenfold enhancement on porphyrin dye efficiency by coordination of ruthenium polypyridine complexes. Chemical Communications 2012, 48, 6939. [CrossRef] [PubMed]
+41 Guimaraes, R. R.; Parussulo, A. L. A.; Toma, H.E.; Araki, K. New tunable ruthenium complex dyes for TiO2 solar cells. Inorganic Chimica Acta 2013, 404, 23. [CrossRef]
+42 Hardin, B. E.; Snaith, H. J.; McGehee, M. D.  The renaissance of dye-sensitized solar cells.  Nature Photonics 2012, 6, 162. [CrossRef]
+43 Kamat, P. V.; Tvrdy, K.; Baker, D. R.; Radich, J. G. Beyond Photovoltaics: Semiconductor Nanoarchitectures for Liquid-Junction Solar Cells. Chemical Reviews 2010, 110, 6664.  [CrossRef] [PubMed]
+44 Huang, X.; Han, S.; Huang, W.; Liu, X.  Enhancing solar cell efficiency: the search for luminescent materials as spectral converters.  Chemical Society Reviews 2013, 42, 173.  [CrossRef] [PubMed] Machado, C. T.; Miranda, F. S.  143 Rev. Virtual Quim. |Vol 7| |No. 1| |126-143|
+45 Muzakir, S. K.; Alias, N.; Yusoffab, M. M.; Jose, R. On the missing links in quantum dot solar cells: a DFT study on fluorophore oxidation and reduction processes in sensitized solar cells. Physical Chemistry Chemical Physics 2013, 15, 16275. [CrossRef] [PubMed]
+46 Johnston, K. W.; Pattantyus-Abraham, A.  G.; Clifford, J. P.; Myrskog, S. H.; MacNeil, D.  D.; Levina, L.; Sargent, E. H. Schottkyquantum dot photovoltaics for efficient infrared power conversion. Applied Physics Letters 2008, 92, 151115. [CrossRef]
+47 Saunders, B. R.; Turner, M. L.  Nanoparticle–polymer photovoltaic cells.  Advances in Colloid and Interface Science 2008, 138, 1. [CrossRef] [PubMed]
+48 Sítio da Empresa de Pesquisa Energética – Análise da Inserção da Geração Solar na Matriz Elétrica Brasileira 2012. Disponível em:
+<http://www.epe.gov.br/geracao/Document s/Estudos_23/NT_EnergiaSolar_2012.pdf>.  Acesso em: 23 janeiro 2014.
+49 Sítio da Associação Brasileira da Indústria Elétrica e Eletrônica – Relatório do Grupo de Trabalho de Geração Distribuída com Sistemas Fotovoltaicos – GT-GDSF – Portaria n.º 36, de 26 de Novembro de 2008.  Disponível em:
+<http://www.abinee.org.br/informac/arquiv os/mmegtsf.pdf>. Acesso em: 23 janeiro 2014.
+50 Sítio da U. S. Geological Survey – Mineral Commodity Summaries 2013. Disponível em:
+<http://minerals.usgs.gov/minerals/pubs/mc s/2013/mcs2013.pdf>. Acesso em: 09 janeiro 2014
+51 Sítio da Universidade Estadual de Campinas – Jornal da UNICAMP, 2012.  Disponível em:
+<http://www.unicamp.br/unicamp/ju/530/gr upo-purifica-silicio-para-fabricacao-decelulas-solares>. Acesso em: 09 janeiro 2014
+52 Sítio da Usina Solar Cidade Azul. Disponível em:
+<http://www.tractebelenergia.com.br/wps/p ortal/internet/parque-gerador/usinascomplementares/solar-cidade-azul>. Acesso em: 13 setembro 2014. 
