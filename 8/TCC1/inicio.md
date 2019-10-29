@@ -1,8 +1,8 @@
-1. Geração fotovoltaica
-2. Incentivo
 3. Abrir gerações
 4. Matriz energética atual do brasil
-5. porque é bom gerar energia
+# Matriz energética atual
+## Mundo
+## Brasil
 
 # Geração fotovoltaica
 
@@ -24,12 +24,23 @@ A dopagem do silício tipo P é geralmente feita à base de gálio ou boro, elem
 
 ![Dopagem Eletrônica, Fonte: Infoescola](img\fotovoltaico\dopagem_eletronica.jpg){#fig:dopagem width=300px}
 
-A célula fotovoltaica contem as duas dopagens, sendo uma camada fina de material tipo N e uma camada espessa de material do tipo P([@fig:transversal]). Com isso, é gerado um campo elétrico, também chamado de região PN[^referencia4]. Quando a luz incide na célula, os elétrons recebem energia proveniente dos fótons. Os elétrons, então excitados, são acelerados e fluem através da junção. A corrente gerada origina a diferença de potencial entre as faces P e N.[^referencia4]
+A célula fotovoltaica contem as duas dopagens, sendo uma camada fina de material tipo N e uma camada espessa de material do tipo P, conforme ilustra a [@fig:transversal]. Com isso, é gerado um campo elétrico, também chamado de região PN[^referencia4]. Quando a luz incide na célula, os elétrons recebem energia proveniente dos fótons. Os elétrons, então excitados, são acelerados e fluem através da junção. A corrente gerada origina a diferença de potencial entre as faces P e N.[^referencia4]
 
 ![Dopagem Eletrônica, Fonte: Infoescola](img\fotovoltaico\placatransversal.png){#fig:transversal width=300px}
 
+## Células fotovoltaicas
 
+**falar dos tipos de paineis monocristalino e policristalino**
 
+# Porque é bom gerar energia em casa
+
+1. Abater imposto
+2. mais baratyo que comprar 
+3. ajuda em épocas em que as bandeiras tao ruins(amarela verm)
+4. incentivo a nao ter que fazer novas usinas que acabariam mais com o meio ambiente
+5. faltas de energia do nada
+
+O Brasil ultimamente tem feito politicas que incentivam a geração autônoma de energia, com redução de impostos como ICMS para a energia consumida pela concessionária
 
 [^referencia1]: Smestad, G. P. Optoelectronics of solar cells, 1a. ed., SPIE: Bellingham, 2002.
 [^referencia2]: Komp, R. J. Practical photovoltaics: eletricity from solar cells, 3a. ed., aatec publications: Ann Arbor, 2001.
