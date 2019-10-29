@@ -1,8 +1,45 @@
 3. Abrir gerações
-4. Matriz energética atual do brasil
+ 
+Abrir geracoes junto com a matriz energetica
+
+# Introdução 
+
+Desde os primórdios da humanidade o homem busca soluções de facilitar sua vida e seu esforço. seja por meio do uso de mecanismos mecânicos ou até mesmo animais. Com a descoberta da eletricidade, um grande passo foi dado para  essas soluções, deixando o   coisas que antes poderiam levar messes em atividades rápidas de poucos minutos ou até mesmo segundos. 
+
+A geração de energia é um assunto muito pesquisado para os dias atuais, isso se deve pois  os consumidores(toda a humanidade) estão sempre precisando de mais energia. A eletrônica de potencia tem grande parte de colaboração com esse assunto pois está sempre  pesquisando para melhorar a eficiência de seus circuitos e reduzir assim o consumo exigido pela população . 
+
+Mesmo tendo a geração de energia atual, em muitos lugares  a energia acaba faltando ou sendo comprometida, seja pelas distancias entre subestações, ou até mesmo por faltas d sistemas  íntegros de distribuição.  certas vezes mudanças climáticas também geram acidentes e imprevistos com a entrega de energia, causando contratempos para os consumidores.
+
+Outro ponto que é pensado ao se construir uma usina é o mal que sera feito ao redor de sua construção, onde pode ser dito o desmatamento, a perfuração do solo, a inundação de lugares, e a isolação de terreno. Esses pontos são também problemas levados em consideração quando uma empresa quer construir uma usina de grande porte.
+
+Para tais problemas se faz importante o estudo completo de fontes de geração de energia, seus custos, impactos e benefícios em relação as outras formas. de certa forma também é importante  conhecer um pouco de todas as naturezas de geração e conversão de energia.
+
+
 # Matriz energética atual
-## Mundo
+
+A geração de energia no Brasil é em sua maior parte hidráulica, o que não é ruim, pois a água é uma fonte renovável de energia, entretanto há danos que são causados com a criação de usinas, como a inundação de uma grande região, causando danos às pessoas que ficam desabrigadas, sem contar à fauna e à flora. Entretanto, no mundo, a situação é outra: a maior parte da energia mundial  em cenário global é feita a base de carvão mineral, uma matéria prima que não é renovável e difícil de ser retirada do meio ambiente.
+
 ## Brasil
+
+Por mais que atualmente a maior parte da geração da energia elétrica brasileira seja com base na água, é possível destacar um grande aumento e incentivos(seja pelo governo ou pelos movimentos ambientais) de gerações alternativas, como gás natural, biomassa e  eólica. Este fato pode ser observado na comparação dentre as figuras [-@fig:brasil_73] e [-@fig:brasil_18] a seguir. Em 1999, a maior parte da eletricidade provinha de hidrelétricas ao Brasil. Já em 2018, pôde-se notar uma grande mudança no cenário energético nacional.
+
+![Matriz elétrica brasileira - 1973, Fonte: MME, Autoria própria](img/matriz/brasil_73.png){#fig:brasil_73 width=300px}
+
+![Matriz elétrica brasileira - 2018, Fonte: MME, Autoria própria](img/matriz/brasil_18.png){#fig:brasil_18 width=300px}
+
+Também é perceptível o aumento da participação da geração de carvão mineral, de 1.7% a 2.2%. Por mais que pareça ter aumentado em 0.5 pontos percentuais, na verdade  a geração mineral  brasileira serve para cobrir faltas da geração hidráulica as quais não conseguem ser entregues quando há períodos de secas, causadora do baixo nível nos reservatórios das represas.[^referencia5]
+
+Outro fato importante a ser destacado é a diminuição percentual no uso de hidrelétricas e Ascenção de outras fontes renováveis, tais como eólica e bioenergia sólida. Com esse crescimento pode-se esperar também a redução no uso da própria geração a base de carvão mineral.
+
+## Mundo
+
+O cenário mundial apresenta as mesmas tendências, reduzindo o uso de fontes não renováveis e das hidrelétricas, investindo também em fontes renováveis capazes de entrega energia com menor custo em longo prazo. A [@fig:mundo_18] e a [@fig:mundo_73] podem mostrar tal comparação.
+
+![Matriz elétrica mundial - 1973, Fonte: MME, Autoria própria](img/matriz/mundo_73.png){#fig:mundo_73 width=300px}
+
+![Matriz elétrica mundial - 2018, Fonte: MME, Autoria própria](img/matriz/mundo_18.png){#fig:mundo_18 width=300px}
+
+A participação do petróleo para geração elétrica também diminuiu ao redor do globo nos últimos 46 anos, revelando o interesse em fontes inesgotáveis de energia.
 
 # Geração fotovoltaica
 
@@ -40,9 +77,24 @@ A célula fotovoltaica contem as duas dopagens, sendo uma camada fina de materia
 4. incentivo a nao ter que fazer novas usinas que acabariam mais com o meio ambiente
 5. faltas de energia do nada
 
+Quando falta água nos reservatórios, as tarifas de eletricidade aumentam, causando maior despesas para os consumidores, se a geraçao for feita em casa este problema é fortemente resolvido.
+
 O Brasil ultimamente tem feito politicas que incentivam a geração autônoma de energia, com redução de impostos como ICMS para a energia consumida pela concessionária
+
+# Referências
+
+Smestad, G. P. Optoelectronics of solar cells, 1a. ed., SPIE: Bellingham, 2002.
+
+Komp, R. J. Practical photovoltaics: eletricity from solar cells, 3a. ed., aatec publications: Ann Arbor, 2001.
+
+Grätzel, M. Photoelectrochemical cells.  Nature 2001, 414, 338. [CrossRef]
+
+https://www.solenerg.com.br/files/monografia_cassio.pdf
+
+http://www.mme.gov.br/documents/1138787/1732840/Resenha+Energética+Brasileira+-+edição+2019+v2.pdf/66a837a8-4164-4b37-be4a-59a5ad270c50?version=1.0
 
 [^referencia1]: Smestad, G. P. Optoelectronics of solar cells, 1a. ed., SPIE: Bellingham, 2002.
 [^referencia2]: Komp, R. J. Practical photovoltaics: eletricity from solar cells, 3a. ed., aatec publications: Ann Arbor, 2001.
 [^referencia3]: Grätzel, M. Photoelectrochemical cells.  Nature 2001, 414, 338. [CrossRef]
 [^referencia4]: https://www.solenerg.com.br/files/monografia_cassio.pdf
+^referencia5]: http://www.mme.gov.br/documents/1138787/1732840/Resenha+Energética+Brasileira+-+edição+2019+v2.pdf/66a837a8-4164-4b37-be4a-59a5ad270c50?version=1.0
