@@ -1,5 +1,5 @@
 1. condicionar os níveis de tensão e corrente da saída, bem como fornecer estes sinais na frequência também requerida
-2. Controle de velocidade de rotação de motores, controle de torque de motores, diminuir a corrente na partida do motor.
+2. Controle de velocidade de rotação de motores, controle de torque de motores.
 3. setpoint, transdutor
 4. 3--- |retificador| 2--- |filtro| 2--- |conversão cc/ca| 3---
 5. nenhuma, pois a retificação das fases é feita em ponte, de modo que tem-se retificação independente
