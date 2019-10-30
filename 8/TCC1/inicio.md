@@ -4,15 +4,15 @@ Abrir geracoes junto com a matriz energetica
 
 # Introdução 
 
-Desde os primórdios da humanidade o homem busca soluções de facilitar sua vida e seu esforço. seja por meio do uso de mecanismos mecânicos ou até mesmo animais. Com a descoberta da eletricidade, um grande passo foi dado para  essas soluções, deixando o   coisas que antes poderiam levar messes em atividades rápidas de poucos minutos ou até mesmo segundos. 
+Desde seus tempos mais remotos o homem busca soluções de facilitar sua vida e seu esforço. seja por meio do uso de sistemas mecânicos ou até mesmo recorrendo às forças de animais. Descoberta em meados do século XVIII, por Benjamin Franklin[^referencia6], a eletricidade é sem sombra de dúvidas um grande avanço para a incansável procura pela comodidade humana. Desde então a ciência está sempre investigando formas de automatizar trabalhos complexos e demorados com o uso de circuitos.
 
-A geração de energia é um assunto muito pesquisado para os dias atuais, isso se deve pois  os consumidores(toda a humanidade) estão sempre precisando de mais energia. A eletrônica de potencia tem grande parte de colaboração com esse assunto pois está sempre  pesquisando para melhorar a eficiência de seus circuitos e reduzir assim o consumo exigido pela população . 
+A geração de energia é um assunto muito pesquisado para os dias atuais. Um motivo dessas pesquisas é o constante aumento de energia demandada, seja para atividades domésticas ou serviços industriais. Para tais problemas a eletrônica de potência tem grande colaboração na redução de energia demandada, visando sempre o processamento eletrônico de energia, causando maiores eficiências em circuitos, redução de volume e peso de componentes, para que de tal forma a energia requerida pela população seja menor.
 
-Mesmo tendo a geração de energia atual, em muitos lugares  a energia acaba faltando ou sendo comprometida, seja pelas distancias entre subestações, ou até mesmo por faltas d sistemas  íntegros de distribuição.  certas vezes mudanças climáticas também geram acidentes e imprevistos com a entrega de energia, causando contratempos para os consumidores.
+Mesmo com a capacidade de geração de energia presente, em muitos lugares a entrega de energia acaba sendo comprometida, seja pelas distâncias entre subestações, ou até mesmo por eventuais faltas de sistemas  apropriados para uma eficiente distribuição. Em alguns casos até mudanças climáticas acarretam em acidentes e imprevistos com o fornecimento de energia, causando contratempos tanto para os consumidores quanto para as próprias concessionárias.
 
-Outro ponto que é pensado ao se construir uma usina é o mal que sera feito ao redor de sua construção, onde pode ser dito o desmatamento, a perfuração do solo, a inundação de lugares, e a isolação de terreno. Esses pontos são também problemas levados em consideração quando uma empresa quer construir uma usina de grande porte.
+Ao se fazer o projeto de uma usina, são feitos todos os levantamentos referentes aos seus custos de instauração, licenciamento e retorno.[^referencia7] Esses levantamentos ocasionalmente concluem que pode não ser possível para a empresa a construção desse projeto, o que leva a um fornecimento de energia debilitado até alguns clientes. Outro ponto refletido ao se construir uma usina são os danos que provocados ao redor de sua construção, danos os quais podem ser na parte ambiental, como o desmatamento, a perfuração do solo, a inundação de lugares; ou até mesmo sociais, como a isolação de terrenos para segurança da região ao redor ou o ruído incômodo que será provocado. Esses pontos são também problemas levados em consideração quando uma empresa quer construir uma usina de grande porte.
 
-Para tais problemas se faz importante o estudo completo de fontes de geração de energia, seus custos, impactos e benefícios em relação as outras formas. de certa forma também é importante  conhecer um pouco de todas as naturezas de geração e conversão de energia.
+Para tais problemas se faz importante o estudo completo de fontes de geração e conversão de energia, seus custos, impactos e benefícios em relação as outras formas. Do mesmo modo é necessário compreender as naturezas de produção de energia e a matriz energética nacional e mundial. 
 
 
 # Matriz energética atual
@@ -63,15 +63,18 @@ A dopagem do silício tipo P é geralmente feita à base de gálio ou boro, elem
 
 A célula fotovoltaica contem as duas dopagens, sendo uma camada fina de material tipo N e uma camada espessa de material do tipo P, conforme ilustra a [@fig:transversal]. Com isso, é gerado um campo elétrico, também chamado de região PN[^referencia4]. Quando a luz incide na célula, os elétrons recebem energia proveniente dos fótons. Os elétrons, então excitados, são acelerados e fluem através da junção. A corrente gerada origina a diferença de potencial entre as faces P e N.[^referencia4]
 
-![Dopagem Eletrônica, Fonte: Infoescola](img\fotovoltaico\placatransversal.png){#fig:transversal width=300px}
+![Dopagem Eletrônica](img\fotovoltaico\placatransversal.png){#fig:transversal width=300px}
 
 ## Células fotovoltaicas
 
 **falar dos tipos de paineis monocristalino e policristalino**
 
-# Porque é bom gerar energia em casa
+# Geração própria de energia
 
-1. Abater imposto
+Nos últimos anos o mundo vem sofrendo mudanças climáticas e outros desastres socioambientais decorrentes do desenfreado consumismo humano do ultimo século. Estes desastres mostraram a todos que caso o planeta não seja bem cuidado os dias do Homem podem estar contados. Tal fato tem aumentado o receio de autoridades políticas. Com o crescimento desta inquietação com o meio ambiente, muitas políticas estratégicas vêm sendo elaboradas com o intuito da preservação do meio ambiente. Essas políticas fazem parte da estratégia do desenvolvimento sustentável. 
+
+No Brasil estas políticas surgiram algum tempo depois, entretanto são vistas como grandes propulsores para pessoas físicas e jurídicas, as quais enxergam nestas políticas oportunidades de grandes negócios ou até mesmo fontes para pequenos retornos e auxílios. Nos últimos vinte anos o país tem elaborado planos de geração energética sustentável, com planos de alavancar a nação para mais perto de outros países de interesse[^referencia9]. Redução em impostos e incentivos para produção de energia "limpa" como à base de resíduos ou do vento são grandes exemplos destas políticas nacionais.[^referencia8]
+
 2. mais baratyo que comprar 
 3. ajuda em épocas em que as bandeiras tao ruins(amarela verm)
 4. incentivo a nao ter que fazer novas usinas que acabariam mais com o meio ambiente
@@ -83,18 +86,17 @@ O Brasil ultimamente tem feito politicas que incentivam a geração autônoma de
 
 # Referências
 
-Smestad, G. P. Optoelectronics of solar cells, 1a. ed., SPIE: Bellingham, 2002.
-
-Komp, R. J. Practical photovoltaics: eletricity from solar cells, 3a. ed., aatec publications: Ann Arbor, 2001.
-
-Grätzel, M. Photoelectrochemical cells.  Nature 2001, 414, 338. [CrossRef]
-
-https://www.solenerg.com.br/files/monografia_cassio.pdf
-
-http://www.mme.gov.br/documents/1138787/1732840/Resenha+Energética+Brasileira+-+edição+2019+v2.pdf/66a837a8-4164-4b37-be4a-59a5ad270c50?version=1.0
-
 [^referencia1]: Smestad, G. P. Optoelectronics of solar cells, 1a. ed., SPIE: Bellingham, 2002.
 [^referencia2]: Komp, R. J. Practical photovoltaics: eletricity from solar cells, 3a. ed., aatec publications: Ann Arbor, 2001.
 [^referencia3]: Grätzel, M. Photoelectrochemical cells.  Nature 2001, 414, 338. [CrossRef]
 [^referencia4]: https://www.solenerg.com.br/files/monografia_cassio.pdf
-^referencia5]: http://www.mme.gov.br/documents/1138787/1732840/Resenha+Energética+Brasileira+-+edição+2019+v2.pdf/66a837a8-4164-4b37-be4a-59a5ad270c50?version=1.0
+[^referencia5]: http://www.mme.gov.br/documents/1138787/1732840/Resenha+Energética+Brasileira+-+edição+2019+v2.pdf/66a837a8-4164-4b37-be4a-59a5ad270c50?version=1.0
+[^referencia6]: http://www.ifsc.usp.br/~cibelle/arquivos/T0150-1.pdf
+[^referencia7]: https://www.hidroenergia.com.br/veja-quais-sao-as-etapas-para-construcao-de-uma-hidreletrica/
+[^referencia8]: https://www.camara.leg.br/noticias/561691-comissao-aprova-incentivo-a-geracao-de-energia-a-partir-de-residuos/
+[^referencia9]: http://epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/Plano-Nacional-de-Energia-PNE-2030
+
+Muita pesquisa pra melhorar a energia
+por isso tao incentivando
+
+
