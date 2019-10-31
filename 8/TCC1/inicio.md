@@ -40,7 +40,7 @@ O cenário mundial apresenta as mesmas tendências, reduzindo o uso de fontes n�
 
 A participação do petróleo para geração elétrica também diminuiu ao redor do globo nos últimos 46 anos, revelando o interesse em fontes inesgotáveis de energia.
 
-# Geração própria de energia
+# Geração Distribuida
 
 Nos últimos anos o mundo vem sofrendo mudanças climáticas e outros desastres socioambientais decorrentes do desenfreado consumismo humano do ultimo século. Estes desastres mostraram a todos que caso o planeta não seja bem cuidado os dias do Homem podem estar contados. Tal fato tem aumentado o receio de autoridades políticas. Com o crescimento desta inquietação com o meio ambiente, muitas políticas estratégicas vêm sendo elaboradas com o intuito da preservação do meio ambiente. Essas políticas fazem parte da estratégia do desenvolvimento sustentável. 
 
@@ -56,13 +56,51 @@ Com a produção de energia particular, entretanto, o consumo no período de pon
 
 Não obstante, a geração particular de energia acarreta em uma menor demanda para a companhia elétrica responsável pela região, o que também diminui a demanda energética das usinas geradoras de maiores portes. O que essa diminuição da demanda implica é a dispensabilidade de projetos para construção de novas usinas. Esses projetos que, como já discutido, trazem consigo vários percalços.
 
-# Geração fotovoltaica
+A partir de 17 de abril de 2012, qualquer consumidor brasileiro pode produzir sua própria energia, desde que oriunda de fontes renováveis ou por "cogeração qualificada".[^referencia14] Já em lugares de maior porte, como indústrias e hospitais, pode-se fazer uso também de geradores a combustão de derivados do petróleo, seja apenas em horário de ponta ou quando há comprometimento na entrega de energia. Faz-se importante então um estudo a respeito dessas fontes de energia.
+
+## Geração a combustão
+
+Os geradores a diesel ou gasolina estão presentes na maioria das indústrias e hospitais, tanto para atender às necessidades em momentos que ocorre falta de energia, ou até para uso no período de ponta, com o intuito de reduzir as contas.
+
+O funcionamento do gerador a combustão baseia-se na lei de Faraday ([@eq:leifaraday]), onde a variação de campo magnético conduz na produção de um campo elétrico, também variável. O combustível causa explosões nos pistões do gerador, os quais são responsáveis para dar movimento ao rotor.
+
+$$ \oint \vec{E} \cdot d\vec{s} = -\frac{d\phi_B}{dt} $${#eq:leifaraday}
+
+Essas máquinas contemplam o gerador propriamente dito acoplado com um motor, o qual é impulsionado a partir de fluidos, como diesel, óleos pesados, GLP, ou outros derivados do petróleo. Toda a rotação é gerada a partir da explosão desses fluidos nos pistões do motor (figuras [-@fig:diesel1] e [-@fig:diesel2]).
+
+![Admissão (A) e Compressão (B) do ar em motores de combustão](img/gerador/motor1.png){#fig:diesel1 height=300px}
+
+![Expansão (A) e Escape (B) dos gases da combustão motores de combustão](img/gerador/motor2.png){#fig:diesel2 height=300px}
+
+Em geradores de campo giratório, como o da [@fig:rotorgiratório], a tensão é extraída diretamente dos enrolamentos da armadura (estator).[^referencia15] Com a movimentação do motor, um campo elétrico é induzido na armadura, donde flui corrente elétrica.
+
+![Esquema de gerador elemental com armadura fixa - Fonte:WEG](img/gerador/geradorarmadurafixa.png){#fig:rotorgiratório width=200px}
+
+O formato da onda de saída depende do formato que o campo possui em relação ao tempo, os geradores são construídos com a finalidade de produzir ondas em formato senoidal.
+
+Como a geração a combustão produz gás carbônico como resultado, a lei permite o uso dessas máquinas em pequenas faixas ao longo do dia, objetivando uma menor poluição por parte das empresas.
+
+## Geração eólica
+
+Assim como geradores a combustão, a geração eólica toma como base o princípio da conversão de energia mecânica em elétrica por meio da lei de Faraday, a qual testifica a presença de uma força eletromotriz induzida resultante de uma variação de campo magnético sentido pelo circuito.[^referencia16]
+
+A rotação da turbina dos aerogeradores se dá a partir do movimento do vento, que é captado pelas pás. Devido ao tamanho que as pás captadoras possuem, sua rotação não atinge os valores necessários para conversões diretas, então é crucial o uso de caixas de engrenagens, designadas a multiplicar a velocidade de rotação a ser acoplada ao seu respectivo gerador ([@fig:componentes_turbina]).
+
+![Componentes de uma turbina eólica](img/eolico/componente-da-turbina.png){#fig:componentes_turbina width=300px}
+
+O anemômetro é capaz de aferir a intensidade, velocidade e direção do vento, dando possibilidade de controlar a angulação das pás, para melhor aproveitamento tanto de rotação quanto da geração.
+
+Mesmo sendo uma fonte de energia renovável e não poluente, a geração eólica ainda traz consigo algumas adversidades. O ar, ao se chocar com as pás, provoca ruídos desconfortáveis para a população próxima. Outro problema a ser citado é o impacto que animais voadores podem causar nas pás, trazendo danos para a produção e diminuindo a vida útil dos equipamentos.
+
+Outro ponto observado é a intermitência que os ventos possuem, sendo provável que em certos momentos de maior demanda não haja vento soprando suficiente, ou até mesmo em situações de demanda em que não há vento algum, trazendo para a geração eólica uma inconstância indesejada.
+
+## Geração fotovoltaica
 
 Dentre os atuais meios de se produzir energia elétrica, um que está sempre em voga é a geração fotovoltaica. Essa geração é silenciosa e abundante. Outro fator que contribui para a geração de energia através do sol é que a estrela tem uma vida muito longa, e inesgotável, comparada ao tempo humano na terra. A energia irradiada na Terra chega a $9,5.10^4$ terawatts, até 10 mil vezes toda a energia consumida no planeta[^referencia3].
 
 As células, em trabalho, não produzem gases ou efluentes, fazendo assim com que o meio ambiente não seja afetado na produção de energia. Este fator é também outro motivo que aponta a vantagem da energia solar em relação às outras formas de geração, e um assunto que é discutido hodiernamente devido à conscientização ambiental a qual muito se fala atualmente.
 
-## Efeito fotovoltaico 
+### Efeito fotovoltaico 
 
 Atualmente, muito se comenta a respeito da energia solar e sua geração com os painéis e módulos fotovoltaicos. Há muitas pesquisas nesse meio, com objetivos como tornar a tecnologia mais próxima do público. A unidade mais simples para a formação dos módulos são as células. 
 
@@ -78,9 +116,9 @@ A dopagem do silício tipo P é geralmente feita à base de gálio ou boro, elem
 
 A célula fotovoltaica contem as duas dopagens, sendo uma camada fina de material tipo N e uma camada espessa de material do tipo P, conforme ilustra a [@fig:transversal]. Com isso, é gerado um campo elétrico, também chamado de região PN[^referencia4]. Quando a luz incide na célula, os elétrons recebem energia proveniente dos fótons. Os elétrons, então excitados, são acelerados e fluem através da junção. A corrente gerada origina a diferença de potencial entre as faces P e N.[^referencia4]
 
-![Dopagem Eletrônica](img\fotovoltaico\placatransversal.png){#fig:transversal width=300px}
+![Visão lateral de uma célula fotovoltaica](img\fotovoltaico\placatransversal.png){#fig:transversal width=300px}
 
-## Células fotovoltaicas
+### Células fotovoltaicas
 
 **falar dos tipos de paineis monocristalino e policristalino**
 
@@ -100,4 +138,6 @@ A célula fotovoltaica contem as duas dopagens, sendo uma camada fina de materia
 [^referencia11]: http://www.aneel.gov.br/bandeiras-tarifarias
 [^referencia12]: http://www.mme.gov.br/documents/10584/1985241/Manual%20de%20Tarif%20En%20El%20-%20Procel_EPP%20-%20Agosto-2011.pdf
 [^referencia13]: http://www2.aneel.gov.br/arquivos/PDF/Cartilha_1p_atual.pdf
-
+[^referencia14]: http://www2.aneel.gov.br/cedoc/ren2012482.pdf
+[^referencia15]: https://static.weg.net/medias/downloadcenter/h68/h68/WEG-curso-dt5-caracter-sticas-e-especifica-o-de-geradores-artigo-tecnico-portugues.pdf
+[^referencia16]: http://www.ifsc.usp.br/~strontium/Teaching/Material2010-2%20FFI0106%20LabFisicaIII/11-LeideInducaodeFaraday.pdf
