@@ -14,12 +14,11 @@ Ao se fazer o projeto de uma usina, são feitos todos os levantamentos referente
 
 Para tais problemas se faz importante o estudo completo de fontes de geração e conversão de energia, seus custos, impactos e benefícios em relação as outras formas. Do mesmo modo é necessário compreender as naturezas de produção de energia e a matriz energética nacional e mundial. 
 
-
 # Matriz energética atual
 
 A geração de energia no Brasil é em sua maior parte hidráulica, o que não é ruim, pois a água é uma fonte renovável de energia, entretanto há danos que são causados com a criação de usinas, como a inundação de uma grande região, causando danos às pessoas que ficam desabrigadas, sem contar à fauna e à flora. Entretanto, no mundo, a situação é outra: a maior parte da energia mundial  em cenário global é feita a base de carvão mineral, uma matéria prima que não é renovável e difícil de ser retirada do meio ambiente.
 
-## Brasil
+## Brasil {#sec:matriz_br}
 
 Por mais que atualmente a maior parte da geração da energia elétrica brasileira seja com base na água, é possível destacar um grande aumento e incentivos(seja pelo governo ou pelos movimentos ambientais) de gerações alternativas, como gás natural, biomassa e  eólica. Este fato pode ser observado na comparação dentre as figuras [-@fig:brasil_73] e [-@fig:brasil_18] a seguir. Em 1999, a maior parte da eletricidade provinha de hidrelétricas ao Brasil. Já em 2018, pôde-se notar uma grande mudança no cenário energético nacional.
 
@@ -41,6 +40,22 @@ O cenário mundial apresenta as mesmas tendências, reduzindo o uso de fontes n�
 
 A participação do petróleo para geração elétrica também diminuiu ao redor do globo nos últimos 46 anos, revelando o interesse em fontes inesgotáveis de energia.
 
+# Geração própria de energia
+
+Nos últimos anos o mundo vem sofrendo mudanças climáticas e outros desastres socioambientais decorrentes do desenfreado consumismo humano do ultimo século. Estes desastres mostraram a todos que caso o planeta não seja bem cuidado os dias do Homem podem estar contados. Tal fato tem aumentado o receio de autoridades políticas. Com o crescimento desta inquietação com o meio ambiente, muitas políticas estratégicas vêm sendo elaboradas com o intuito da preservação do meio ambiente. Essas políticas fazem parte da estratégia do desenvolvimento sustentável. 
+
+No Brasil estas políticas surgiram algum tempo depois, entretanto são vistas como grandes propulsores para pessoas físicas e jurídicas, as quais enxergam nestas políticas oportunidades de grandes negócios ou até mesmo fontes para pequenos retornos e auxílios. Nos últimos vinte anos o país tem elaborado planos de geração energética sustentável, com planos de alavancar a nação para mais perto de outros países de interesse[^referencia9]. Redução em impostos e incentivos para produção de energia "limpa" como à base de resíduos ou do vento são grandes exemplos destas políticas nacionais.[^referencia8]
+
+Com tais incentivos, muitas pessoas acabam optado por instalar geradores em suas residências. A geração própria implica na redução da demanda energética do fornecedor. Isso faz com que a própria fatura de luz tenha redução. O investimento em uma fonte de energia local tem também retorno a longo prazo, devido a fatos como aumento da tarifa repassada pela ANEEL.
+
+Outrossim, há ocasiões pontuais em que o fornecimento de energia é impossibilitado, seja por rompimento de cabos entre o consumidor e distribuidor, interrupções programadas, acidentes no meio do trajeto do fluxo da energia, ou até mesmo por maus projetos residenciais.[^referencia10] Como resolução de tais problemas a geração própria acaba sendo muito favorável, possibilitando ao morador ou empresário o total funcionamento de seu local de laboro.
+
+Há momentos em que a tarifa de energia sofre alterações, as quais podem ser ou não previstas. O que usualmente ocorre é o aumento de tarifa para consumidores residenciais devido ao aumento de trabalho necessário para fornecimento de eletricidade para as casas, o qual provém de níveis baixos nos reservatórios das usinas. Como já comentado na [@sec:matriz_br], como a maior parte da energia depende do setor hidráulico, em períodos de seca são necessárias mais usinas trabalhando.[^referencia11] Esses valores de tarifas possuem o nome de "bandeiras tarifárias". Um outro "aumento" de tarifa pode ser notado em indústrias, no que comumente é chamado de "horário de ponta", definido como um período de três horas consecutivas, as quais há um grande acréscimo de energia demandada para a empresa concessionária, a qual, preservada por leis, cobra a energia consumida nessa faixa a uma tarifa específica, logicamente com seu valor mais elevado.[^referencia12] 
+
+Com a produção de energia particular, entretanto, o consumo no período de ponta pode ser totalmente com base na mesma energia produzida, fazendo com que o consumo tarifado seja nulo. De mesmo modo, nos períodos de bandeiras tarifárias vermelhas e amarela, o consumo a ser pago encaminha-se ao consumo mínimo, o qual é obrigatório ser pago.[^referencia13]
+
+Não obstante, a geração particular de energia acarreta em uma menor demanda para a companhia elétrica responsável pela região, o que também diminui a demanda energética das usinas geradoras de maiores portes. O que essa diminuição da demanda implica é a dispensabilidade de projetos para construção de novas usinas. Esses projetos que, como já discutido, trazem consigo vários percalços.
+
 # Geração fotovoltaica
 
 Dentre os atuais meios de se produzir energia elétrica, um que está sempre em voga é a geração fotovoltaica. Essa geração é silenciosa e abundante. Outro fator que contribui para a geração de energia através do sol é que a estrela tem uma vida muito longa, e inesgotável, comparada ao tempo humano na terra. A energia irradiada na Terra chega a $9,5.10^4$ terawatts, até 10 mil vezes toda a energia consumida no planeta[^referencia3].
@@ -49,7 +64,7 @@ As células, em trabalho, não produzem gases ou efluentes, fazendo assim com qu
 
 ## Efeito fotovoltaico 
 
-Atualmente, muito é falado a respeito da energia solar e sua geração com os painéis e módulos fotovoltaicos. Há muitas pesquisas nesse meio, com objetivos como tornar a tecnologia mais próxima do público. A unidade mais simples para a formação dos módulos são as células. 
+Atualmente, muito se comenta a respeito da energia solar e sua geração com os painéis e módulos fotovoltaicos. Há muitas pesquisas nesse meio, com objetivos como tornar a tecnologia mais próxima do público. A unidade mais simples para a formação dos módulos são as células. 
 
 A célula fotovoltaica tem seu funcionamento oriundo do efeito fotovoltaico. Este fenômeno é mais antigo do que a maioria das pessoas pensam. Em 1839, Edmond Becquerel percebeu a geração de energia a partir de luz solar incidindo em placas de latão submersas em um líquido eletrólito [^referencia1]. Mais tarde, então, Charles Frittts foi capaz de inventar a primeira bateria de luz solar, feita com base em selênio[^referencia2].
 
@@ -69,20 +84,6 @@ A célula fotovoltaica contem as duas dopagens, sendo uma camada fina de materia
 
 **falar dos tipos de paineis monocristalino e policristalino**
 
-# Geração própria de energia
-
-Nos últimos anos o mundo vem sofrendo mudanças climáticas e outros desastres socioambientais decorrentes do desenfreado consumismo humano do ultimo século. Estes desastres mostraram a todos que caso o planeta não seja bem cuidado os dias do Homem podem estar contados. Tal fato tem aumentado o receio de autoridades políticas. Com o crescimento desta inquietação com o meio ambiente, muitas políticas estratégicas vêm sendo elaboradas com o intuito da preservação do meio ambiente. Essas políticas fazem parte da estratégia do desenvolvimento sustentável. 
-
-No Brasil estas políticas surgiram algum tempo depois, entretanto são vistas como grandes propulsores para pessoas físicas e jurídicas, as quais enxergam nestas políticas oportunidades de grandes negócios ou até mesmo fontes para pequenos retornos e auxílios. Nos últimos vinte anos o país tem elaborado planos de geração energética sustentável, com planos de alavancar a nação para mais perto de outros países de interesse[^referencia9]. Redução em impostos e incentivos para produção de energia "limpa" como à base de resíduos ou do vento são grandes exemplos destas políticas nacionais.[^referencia8]
-
-2. mais baratyo que comprar 
-3. ajuda em épocas em que as bandeiras tao ruins(amarela verm)
-4. incentivo a nao ter que fazer novas usinas que acabariam mais com o meio ambiente
-5. faltas de energia do nada
-
-Quando falta água nos reservatórios, as tarifas de eletricidade aumentam, causando maior despesas para os consumidores, se a geraçao for feita em casa este problema é fortemente resolvido.
-
-O Brasil ultimamente tem feito politicas que incentivam a geração autônoma de energia, com redução de impostos como ICMS para a energia consumida pela concessionária
 
 # Referências
 
@@ -95,8 +96,8 @@ O Brasil ultimamente tem feito politicas que incentivam a geração autônoma de
 [^referencia7]: https://www.hidroenergia.com.br/veja-quais-sao-as-etapas-para-construcao-de-uma-hidreletrica/
 [^referencia8]: https://www.camara.leg.br/noticias/561691-comissao-aprova-incentivo-a-geracao-de-energia-a-partir-de-residuos/
 [^referencia9]: http://epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/Plano-Nacional-de-Energia-PNE-2030
-
-Muita pesquisa pra melhorar a energia
-por isso tao incentivando
-
+[^referencia10]: https://www.cpfl.com.br/energias-sustentaveis/eficiencia-energetica/uso-consciente/falta-de-energia/Paginas/default.aspx
+[^referencia11]: http://www.aneel.gov.br/bandeiras-tarifarias
+[^referencia12]: http://www.mme.gov.br/documents/10584/1985241/Manual%20de%20Tarif%20En%20El%20-%20Procel_EPP%20-%20Agosto-2011.pdf
+[^referencia13]: http://www2.aneel.gov.br/arquivos/PDF/Cartilha_1p_atual.pdf
 
