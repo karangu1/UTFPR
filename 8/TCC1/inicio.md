@@ -1,8 +1,4 @@
-3. Abrir gerações
- 
-Abrir geracoes junto com a matriz energetica
-
-# Introdução 
+## Introdução 
 
 Desde seus tempos mais remotos o homem busca soluções de facilitar sua vida e seu esforço. seja por meio do uso de sistemas mecânicos ou até mesmo recorrendo às forças de animais. Descoberta em meados do século XVIII, por Benjamin Franklin[^referencia6], a eletricidade é sem sombra de dúvidas um grande avanço para a incansável procura pela comodidade humana. Desde então a ciência está sempre investigando formas de automatizar trabalhos complexos e demorados com o uso de circuitos.
 
@@ -14,11 +10,11 @@ Ao se fazer o projeto de uma usina, são feitos todos os levantamentos referente
 
 Para tais problemas se faz importante o estudo completo de fontes de geração e conversão de energia, seus custos, impactos e benefícios em relação as outras formas. Do mesmo modo é necessário compreender as naturezas de produção de energia e a matriz energética nacional e mundial. 
 
-# Matriz energética atual
+## Matriz energética atual
 
 A geração de energia no Brasil é em sua maior parte hidráulica, o que não é ruim, pois a água é uma fonte renovável de energia, entretanto há danos que são causados com a criação de usinas, como a inundação de uma grande região, causando danos às pessoas que ficam desabrigadas, sem contar à fauna e à flora. Entretanto, no mundo, a situação é outra: a maior parte da energia mundial  em cenário global é feita a base de carvão mineral, uma matéria prima que não é renovável e difícil de ser retirada do meio ambiente.
 
-## Brasil {#sec:matriz_br}
+### Brasil {#sec:matriz_br}
 
 Por mais que atualmente a maior parte da geração da energia elétrica brasileira seja com base na água, é possível destacar um grande aumento e incentivos(seja pelo governo ou pelos movimentos ambientais) de gerações alternativas, como gás natural, biomassa e  eólica. Este fato pode ser observado na comparação dentre as figuras [-@fig:brasil_73] e [-@fig:brasil_18] a seguir. Em 1999, a maior parte da eletricidade provinha de hidrelétricas ao Brasil. Já em 2018, pôde-se notar uma grande mudança no cenário energético nacional.
 
@@ -30,7 +26,7 @@ Também é perceptível o aumento da participação da geração de carvão mine
 
 Outro fato importante a ser destacado é a diminuição percentual no uso de hidrelétricas e Ascenção de outras fontes renováveis, tais como eólica e bioenergia sólida. Com esse crescimento pode-se esperar também a redução no uso da própria geração a base de carvão mineral.
 
-## Mundo
+### Mundo
 
 O cenário mundial apresenta as mesmas tendências, reduzindo o uso de fontes não renováveis e das hidrelétricas, investindo também em fontes renováveis capazes de entrega energia com menor custo em longo prazo. A [@fig:mundo_18] e a [@fig:mundo_73] podem mostrar tal comparação.
 
@@ -40,7 +36,7 @@ O cenário mundial apresenta as mesmas tendências, reduzindo o uso de fontes n�
 
 A participação do petróleo para geração elétrica também diminuiu ao redor do globo nos últimos 46 anos, revelando o interesse em fontes inesgotáveis de energia.
 
-# Geração Distribuida
+## Geração Distribuida
 
 Nos últimos anos o mundo vem sofrendo mudanças climáticas e outros desastres socioambientais decorrentes do desenfreado consumismo humano do ultimo século. Estes desastres mostraram a todos que caso o planeta não seja bem cuidado os dias do Homem podem estar contados. Tal fato tem aumentado o receio de autoridades políticas. Com o crescimento desta inquietação com o meio ambiente, muitas políticas estratégicas vêm sendo elaboradas com o intuito da preservação do meio ambiente. Essas políticas fazem parte da estratégia do desenvolvimento sustentável. 
 
@@ -58,7 +54,7 @@ Não obstante, a geração particular de energia acarreta em uma menor demanda p
 
 A partir de 17 de abril de 2012, qualquer consumidor brasileiro pode produzir sua própria energia, desde que oriunda de fontes renováveis ou por "cogeração qualificada".[^referencia14] Já em lugares de maior porte, como indústrias e hospitais, pode-se fazer uso também de geradores a combustão de derivados do petróleo, seja apenas em horário de ponta ou quando há comprometimento na entrega de energia. Faz-se importante então um estudo a respeito dessas fontes de energia.
 
-## Geração a combustão
+### Geração a combustão
 
 Os geradores a diesel ou gasolina estão presentes na maioria das indústrias e hospitais, tanto para atender às necessidades em momentos que ocorre falta de energia, ou até para uso no período de ponta, com o intuito de reduzir as contas.
 
@@ -80,7 +76,7 @@ O formato da onda de saída depende do formato que o campo possui em relação a
 
 Como a geração a combustão produz gás carbônico como resultado, a lei permite o uso dessas máquinas em pequenas faixas ao longo do dia, objetivando uma menor poluição por parte das empresas.
 
-## Geração eólica
+### Geração eólica
 
 Assim como geradores a combustão, a geração eólica toma como base o princípio da conversão de energia mecânica em elétrica por meio da lei de Faraday, a qual testifica a presença de uma força eletromotriz induzida resultante de uma variação de campo magnético sentido pelo circuito.[^referencia16]
 
@@ -94,13 +90,13 @@ Mesmo sendo uma fonte de energia renovável e não poluente, a geração eólica
 
 Outro ponto observado é a intermitência que os ventos possuem, sendo provável que em certos momentos de maior demanda não haja vento soprando suficiente, ou até mesmo em situações de demanda em que não há vento algum, trazendo para a geração eólica uma inconstância indesejada.
 
-## Geração fotovoltaica
+### Geração fotovoltaica
 
 Dentre os atuais meios de se produzir energia elétrica, um que está sempre em voga é a geração fotovoltaica. Essa geração é silenciosa e abundante. Outro fator que contribui para a geração de energia através do sol é que a estrela tem uma vida muito longa, e inesgotável, comparada ao tempo humano na terra. A energia irradiada na Terra chega a $9,5.10^4$ terawatts, até 10 mil vezes toda a energia consumida no planeta[^referencia3].
 
 As células, em trabalho, não produzem gases ou efluentes, fazendo assim com que o meio ambiente não seja afetado na produção de energia. Este fator é também outro motivo que aponta a vantagem da energia solar em relação às outras formas de geração, e um assunto que é discutido hodiernamente devido à conscientização ambiental a qual muito se fala atualmente.
 
-### Efeito fotovoltaico 
+#### Efeito fotovoltaico 
 
 Atualmente, muito se comenta a respeito da energia solar e sua geração com os painéis e módulos fotovoltaicos. Há muitas pesquisas nesse meio, com objetivos como tornar a tecnologia mais próxima do público. A unidade mais simples para a formação dos módulos são as células. 
 
@@ -118,10 +114,9 @@ A célula fotovoltaica contem as duas dopagens, sendo uma camada fina de materia
 
 ![Visão lateral de uma célula fotovoltaica](img\fotovoltaico\placatransversal.png){#fig:transversal width=300px}
 
-### Células fotovoltaicas
+#### Células fotovoltaicas
 
-**falar dos tipos de paineis monocristalino e policristalino**
-
+O material constituinte da maior parte dos painéis solares é o silício. O elemento semicondutor é comercializado em três formas principais: silício cristalino (c-Si), este sendo mono ou policristalino, ou até mesmo de silicio amorfo (?-Si). 
 
 # Referências
 
