@@ -1,0 +1,49 @@
+
+a) artigo sem orientador??? ( o orientador deveria vir nos autores)
+
+
+b) verificar alinhamento/largura das colunas do modelo... veja que a largura da parte inicial está equivocada.
+
+c) as referências não seguem o formato do modelo (que não é 100% ieee). Favor adequar
+
+d) no final da pag1 (" Em alguns casos até mudanças climáticas acarretam em acidentes e imprevistos com o fornecimento de energia, causando contratempos tanto para os consumidores quanto para as próprias concessionárias.") ==> requer uma referência.
+
+e) ainda no final da pag1: ("...sem contar à fauna e à flora...") ==> em ambos os casos não há crase.
+
+f) as afirmações da sessão 2, precisam de referencias.
+
+g) em portuguÊs, a indicação de decimal é "," e não ".". Assim, revisar o artigo, como em, por exemplo "de 1.7% a 2.2%. "
+
+i) evitar repetições, como em:
+==> nos últimos anos:
+"... nos últimos 46 anos, revelando o interesse em fontes inesgotáveis de energia. Nos últimos anos o mundo vem..."
+
+==> essas políticas:
+"...Essas políticas fazem parte da estratégia do desenvolvimento sustentável. No Brasil estas políticas surgiram..."
+
+j)  veja... onde termina o item 2.2 Mundo?? pq o assunto continua, vc começa a falar de incentivos e faturação abaixo, coisas q não tem a ver com "perspectiva da matriz energética no mundo"... Logo, percebe-se a necessidade de criar  novas subsessões neste sessão e melhorar a distribuição do tema.
+
+
+l) as figuras 5 e 6: não estão legíveis. Também não foram criadas pelos autores. inclusive ainda carregam as letrass de uma legenda que não existe). Logo, sugiro que sejam melhor trabalhadas (tamanho), que o texto seja editado e traduzido, e que seja indicado a fonte "adaptado de...." (Não podemos usar figuras de terceiros, sem a permissão, então, trabalhamos ela e referenciamos a sua origem).
+
+
+n) sobre energia eólica. Não foi abordado o maior problema com relação aos parques eólicos brasileiros (Que é :distribuição)
+
+o) sobre energia fotovoltaica, também não foi abordada uma avaliação técnica, os equipamentos envolvidos, além de sua contextualização em  termos de "GERAÇÂO DISTRIBUÍDA".
+
+p) É preciso fazer uma análise de viabilidade técnico-financeira de cada uma das gerações, e o principal pelo que vc fez como proposta: como gerar isso de forma distribuída, e controlar a comunicação desta energia?!?!? (isso sim, seria interessante ter abordado, conforme proposto)
+
+q) em relação ao título ".... PERSPECTIVAS ATUAIS E FUTURAS REFERENTES AOS IMPACTOS SOCIAIS E AMBIENTAIS" ==> não é abordado nada em relação a impacto social, nem ambiental (apenas na conclusão, e de forma breve). Alias, acredito que questões técnicas deveriam se sobrepor a possíveis questões ambientais e sociais, preferindo análises de viabilidade técnico-financeiras e preferencialmente comparativas, além de questões técnicas pontuais.
+
+r) todas as figuras, precisam trazer referência, serem adequadas e trazerem o "adaptado de".
+Figuras sem definição devem ser corrigidas. Figuras de autoria conhecida, não podem ser apropriadas. E, as figuras devem fazer algum sentido e trazer informações para o artigo. Figuras como a fig9,  fig 10, fig11 podem se tornar desnecessárias com esta visão.
+
+
+s) ainda com relação À geração distrbuída: nada foi falado da maior fonte de energia (hidráulica) e do sistema de distribuição propriamente dito. O artigo ficou como uma abordagem básica (E não técnica) de energias renováveis alterntivas, fugindo do foco proposto pelo título, e de certa forma, divergindo do próprio resumo.
+
+t) não abordou outras fontes, como fissão nuclear, fusao nuclear, maremotriz, etc.
+
+u) verificar a formatação das referências.
+
+v) no mínimo, deveria haver uma tabela comparativa, com as característias de análise de viabilidade de cada uma delas, e ser discutido.
+
