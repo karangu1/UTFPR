@@ -1,0 +1,44 @@
+1. Qual o método utilizado pela partida suave para reduzir a corrente de partida
+dos motores de indução assíncronos?
+
+2. De que forma a partida suave controla a tensão aplicada no motor?
+
+3. Por que a partida suave não pode substituir o conversor de frequência?
+
+4. Qual a finalidade do contator de by-pass, e quais as vantagens na sua utilização?
+
+5. Por que não podemos utilizar contator de by-pass nos conversores de frequência?
+
+6. Como são feitas as proteções do motor (sobrecarga e falta de fase), quando estes são
+acionados por uma partida suave ou conversor de frequência?
+
+7. Por que o conversor de frequência pode substituir a partida suave?
+
+8. Uma partida suave com capacidade para partir um motor de 20CV pode ser
+utilizada para partir um motor de 15CV? Por que? O que deve ser feito?
+
+9. Quando um PLC comanda, através de uma saída digital a transistor, uma partida
+suave ou um conversor de frequência, por que o negativo (comum) do PLC e do
+dispositivo de acionamento devem ser interligados?
+
+10. Como tipicamente é feito o ajuste da proteção contra sobrecarga na partida suave?
+
+11. Porque quando é iniciada a rampa de aceleração, não é conveniente que a tensão
+aplicada no motor se inicie em zero, ou valores muito baixos (inferior a 30% da
+tensão nominal do motor)?
+
+12. Quais os usos típicos das saídas a relé da partida suave?
+
+13. Porque a ligação do banco de capacitores (correção do fator de potência) deve
+acontecer somente após o final da rampa de aceleração, e antes do início da rampa de
+desaceleração?
+
+14. Com base em quais parâmetros (variáveis) devem ser definidos os tempos de
+aceleração e desaceleração?
+
+
+
+15. Qual o objetivo de aplicarmos no início da partida a tensão nominal do motor
+durante alguns milesegundos (booste de tensão) ?
+
+r: Suprir o motor com o torque da carga (2 a 4 ciclos de giro)

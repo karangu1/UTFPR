@@ -38,31 +38,93 @@ A participação do petróleo para geração elétrica também diminuiu ao redor
 
 ## Geração Distribuida
 
-Nos últimos anos o mundo vem sofrendo mudanças climáticas e outros desastres socioambientais decorrentes do desenfreado consumismo humano do ultimo século. Estes desastres mostraram a todos que caso o planeta não seja bem cuidado os dias do Homem podem estar contados. Tal fato tem aumentado o receio de autoridades políticas. Com o crescimento desta inquietação com o meio ambiente, muitas políticas estratégicas vêm sendo elaboradas com o intuito da preservação do meio ambiente. Essas políticas fazem parte da estratégia do desenvolvimento sustentável. 
+Nos últimos anos o mundo vem sofrendo mudanças climáticas e outros desastres
+socioambientais decorrentes do desenfreado consumismo humano do ultimo século. 
+Estes desastres mostraram a todos que caso o planeta não seja bem cuidado os 
+dias do Homem podem estar contados. Tal fato tem aumentado o receio de 
+autoridades políticas. Com o crescimento desta inquietação com o meio ambiente, 
+muitas políticas estratégicas vêm sendo elaboradas com o intuito da preservação 
+do meio ambiente.  Essas políticas fazem parte da estratégia do desenvolvimento 
+sustentável. 
 
-No Brasil estas políticas surgiram algum tempo depois, entretanto são vistas como grandes propulsores para pessoas físicas e jurídicas, as quais enxergam nestas políticas oportunidades de grandes negócios ou até mesmo fontes para pequenos retornos e auxílios. Nos últimos vinte anos o país tem elaborado planos de geração energética sustentável, com planos de alavancar a nação para mais perto de outros países de interesse[^referencia9]. Redução em impostos e incentivos para produção de energia "limpa" como à base de resíduos ou do vento são grandes exemplos destas políticas nacionais.[^referencia8]
+No Brasil estas políticas surgiram algum tempo depois, entretanto são vistas 
+como grandes propulsores para pessoas físicas e jurídicas, as quais enxergam 
+nestas políticas oportunidades de grandes negócios ou até mesmo fontes para 
+pequenos retornos e auxílios. Nos últimos vinte anos o país tem elaborado 
+planos de geração energética sustentável, com planos de alavancar a nação para 
+mais perto de outros países de interesse[^referencia9]. Redução em impostos e 
+incentivos para produção de energia "limpa" como à base de resíduos ou do vento 
+são grandes exemplos destas políticas nacionais.[^referencia8]
 
-Com tais incentivos, muitas pessoas acabam optado por instalar geradores em suas residências. A geração própria implica na redução da demanda energética do fornecedor. Isso faz com que a própria fatura de luz tenha redução. O investimento em uma fonte de energia local tem também retorno a longo prazo, devido a fatos como aumento da tarifa repassada pela ANEEL.
+Com tais incentivos, muitas pessoas acabam optado por instalar geradores em 
+suas residências. A geração própria implica na redução da demanda energética do 
+fornecedor. Isso faz com que a própria fatura de luz tenha redução. O 
+investimento em uma fonte de energia local tem também retorno a longo prazo, 
+devido a fatos como aumento da tarifa repassada pela ANEEL.
 
-Outrossim, há ocasiões pontuais em que o fornecimento de energia é impossibilitado, seja por rompimento de cabos entre o consumidor e distribuidor, interrupções programadas, acidentes no meio do trajeto do fluxo da energia, ou até mesmo por maus projetos residenciais.[^referencia10] Como resolução de tais problemas a geração própria acaba sendo muito favorável, possibilitando ao morador ou empresário o total funcionamento de seu local de laboro.
+Outrossim, há ocasiões pontuais em que o fornecimento de energia é 
+impossibilitado, seja por rompimento de cabos entre o consumidor e 
+distribuidor, interrupções programadas, acidentes no meio do trajeto do fluxo 
+da energia, ou até mesmo por maus projetos residenciais.[^referencia10] Como 
+resolução de tais problemas a geração própria acaba sendo muito favorável, 
+possibilitando ao morador ou empresário o total funcionamento de seu local de 
+laboro. 
 
-Há momentos em que a tarifa de energia sofre alterações, as quais podem ser ou não previstas. O que usualmente ocorre é o aumento de tarifa para consumidores residenciais devido ao aumento de trabalho necessário para fornecimento de eletricidade para as casas, o qual provém de níveis baixos nos reservatórios das usinas. Como já comentado na [@sec:matriz_br], como a maior parte da energia depende do setor hidráulico, em períodos de seca são necessárias mais usinas trabalhando.[^referencia11] Esses valores de tarifas possuem o nome de "bandeiras tarifárias". Um outro "aumento" de tarifa pode ser notado em indústrias, no que comumente é chamado de "horário de ponta", definido como um período de três horas consecutivas, as quais há um grande acréscimo de energia demandada para a empresa concessionária, a qual, preservada por leis, cobra a energia consumida nessa faixa a uma tarifa específica, logicamente com seu valor mais elevado.[^referencia12] 
 
-Com a produção de energia particular, entretanto, o consumo no período de ponta pode ser totalmente com base na mesma energia produzida, fazendo com que o consumo tarifado seja nulo. De mesmo modo, nos períodos de bandeiras tarifárias vermelhas e amarela, o consumo a ser pago encaminha-se ao consumo mínimo, o qual é obrigatório ser pago.[^referencia13]
+Há momentos em que a tarifa de energia sofre alterações, as quais podem ser ou 
+não previstas. O que usualmente ocorre é o aumento de tarifa para consumidores 
+residenciais devido ao aumento de trabalho necessário para fornecimento de 
+eletricidade para as casas, o qual provém de níveis baixos nos reservatórios 
+das usinas. Como já comentado na [@sec:matriz_br], como a maior parte da 
+energia depende do setor hidráulico, em períodos de seca são necessárias mais 
+usinas trabalhando.[^referencia11] Esses valores de tarifas possuem o nome de 
+"bandeiras tarifárias". Um outro "aumento" de tarifa pode ser notado em 
+indústrias, no que comumente é chamado de "horário de ponta", definido como um 
+período de três horas consecutivas, as quais há um grande acréscimo de energia 
+demandada para a empresa concessionária, a qual, preservada por leis, cobra a 
+energia consumida nessa faixa a uma tarifa específica, logicamente com seu 
+valor mais elevado.[^referencia12] 
 
-Não obstante, a geração particular de energia acarreta em uma menor demanda para a companhia elétrica responsável pela região, o que também diminui a demanda energética das usinas geradoras de maiores portes. O que essa diminuição da demanda implica é a dispensabilidade de projetos para construção de novas usinas. Esses projetos que, como já discutido, trazem consigo vários percalços.
 
-A partir de 17 de abril de 2012, qualquer consumidor brasileiro pode produzir sua própria energia, desde que oriunda de fontes renováveis ou por "cogeração qualificada".[^referencia14] Já em lugares de maior porte, como indústrias e hospitais, pode-se fazer uso também de geradores a combustão de derivados do petróleo, seja apenas em horário de ponta ou quando há comprometimento na entrega de energia. Faz-se importante então um estudo a respeito dessas fontes de energia.
+Com a produção de energia particular, entretanto, o consumo no período de ponta 
+pode ser totalmente com base na mesma energia produzida, fazendo com que o 
+consumo tarifado seja nulo. De mesmo modo, nos períodos de bandeiras tarifárias 
+vermelhas e amarela, o consumo a ser pago encaminha-se ao consumo mínimo, o 
+qual é obrigatório ser pago.[^referencia13]
+
+
+Não obstante, a geração particular de energia acarreta em uma menor demanda 
+para a companhia elétrica responsável pela região, o que também diminui a 
+demanda energética das usinas geradoras de maiores portes. O que essa 
+diminuição da demanda implica é a dispensabilidade de projetos para construção 
+de novas usinas. Esses projetos que, como já discutido, trazem consigo vários 
+percalços.
+
+A partir de 17 de abril de 2012, qualquer consumidor brasileiro pode produzir 
+sua própria energia, desde que oriunda de fontes renováveis ou por "cogeração 
+qualificada".[^referencia14] Já em lugares de maior porte, como indústrias e 
+hospitais, pode-se fazer uso também de geradores a combustão de derivados do 
+petróleo, seja apenas em horário de ponta ou quando há comprometimento na 
+entrega de energia. Faz-se importante então um estudo a respeito dessas fontes 
+de energia.
 
 ### Geração a combustão
 
-Os geradores a diesel ou gasolina estão presentes na maioria das indústrias e hospitais, tanto para atender às necessidades em momentos que ocorre falta de energia, ou até para uso no período de ponta, com o intuito de reduzir as contas.
+Os geradores a diesel ou gasolina estão presentes na maioria das indústrias e 
+hospitais, tanto para atender às necessidades em momentos que ocorre falta de 
+energia, ou até para uso no período de ponta, com o intuito de reduzir as 
+contas.
 
-O funcionamento do gerador a combustão baseia-se na lei de Faraday ([@eq:leifaraday]), onde a variação de campo magnético conduz na produção de um campo elétrico, também variável. O combustível causa explosões nos pistões do gerador, os quais são responsáveis para dar movimento ao rotor.
+O funcionamento do gerador a combustão baseia-se na lei de Faraday ([@eq:leifaraday]), onde a variação de campo magnético conduz na produção de um campo 
+elétrico, também variável. O combustível causa explosões nos pistões do 
+gerador, os quais são responsáveis para dar movimento ao rotor.
 
 $$ \oint \vec{E} \cdot d\vec{s} = -\frac{d\phi_B}{dt} $${#eq:leifaraday}
 
-Essas máquinas contemplam o gerador propriamente dito acoplado com um motor, o qual é impulsionado a partir de fluidos, como diesel, óleos pesados, GLP, ou outros derivados do petróleo. Toda a rotação é gerada a partir da explosão desses fluidos nos pistões do motor (figuras [-@fig:diesel1] e [-@fig:diesel2]).
+Essas máquinas contemplam o gerador propriamente dito acoplado com um motor, o 
+qual é impulsionado a partir de fluidos, como diesel, óleos pesados, GLP, ou 
+outros derivados do petróleo. Toda a rotação é gerada a partir da explosão 
+desses fluidos nos pistões do motor (figuras [-@fig:diesel1] e [-@fig:diesel2]).
 
 ![Admissão (A) e Compressão (B) do ar em motores de combustão](img/gerador/motor1.png){#fig:diesel1 height=300px}
 
@@ -72,9 +134,13 @@ Em geradores de campo giratório, como o da [@fig:rotorgiratório], a tensão é
 
 ![Esquema de gerador elemental com armadura fixa - Fonte:WEG](img/gerador/geradorarmadurafixa.png){#fig:rotorgiratório width=200px}
 
-O formato da onda de saída depende do formato que o campo possui em relação ao tempo, os geradores são construídos com a finalidade de produzir ondas em formato senoidal.
+O formato da onda de saída depende do formato que o campo possui em relação ao 
+tempo, os geradores são construídos com a finalidade de produzir ondas em 
+formato senoidal.
 
-Como a geração a combustão produz gás carbônico como resultado, a lei permite o uso dessas máquinas em pequenas faixas ao longo do dia, objetivando uma menor poluição por parte das empresas.
+Como a geração a combustão produz gás carbônico como resultado, a lei permite o 
+uso dessas máquinas em pequenas faixas ao longo do dia, objetivando uma menor 
+poluição por parte das empresas.
 
 ### Geração eólica
 

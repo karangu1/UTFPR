@@ -1,0 +1,19 @@
+colorscheme gruvbox            " Esquema de Cores
+set background=light
+set guifont=Courier_New:h12:cANSI:qDRAFT
+
+" *******************************
+" Opções de interface
+" *******************************
+
+set guioptions=c                 " Desabilitar menus (interface do console)
+autocmd GUIEnter * silent! WToggleClean
+map <leader>bg :call BackgroundToggle()<cr>
+
+function! BackgroundToggle()
+    if &background=="light"
+        setlocal background=dark
+    else
+        setlocal background=light
+    endif
+endfunction

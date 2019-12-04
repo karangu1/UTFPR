@@ -8,6 +8,7 @@
 8.	Faça um comparativo da transmissão CA e CC.
 9.	O campo elétrico crítico do efeito corona depende do que?
 10.	Quais as 4 características que acompanham o efeito corona?
+
 11.	Em uma LT, as descargas corona podem acontecer quando a diferença de potencial entre uma das fases e o solo ultrapassa determinado valor crítico de ruptura. O valor desta tensão de ruptura depende de uma gama de fatores, cite pelo menos 3.
 12.	O ruído da linha de transmissão pode ser transmitido por três meios, quais são? Explane sobre um deles.
 13.	Busque em outras bibliografias os parâmetros das linhas de transmissão curta, média e longa.

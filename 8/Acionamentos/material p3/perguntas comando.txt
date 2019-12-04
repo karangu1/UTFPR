@@ -1,0 +1,45 @@
+1) Quais as limitações operacionais das botoeiras, chaves fim de curso, contatos
+de comando dos contatores, e dos relés?
+
+2) Qual a finalidade da resistência do relé de proteção contra sobrecarga?
+
+3) Como é aquecida a resistencia do relé de proteção contra sobrecarga?
+
+4) Qual o critério adotado (ajuste a ser feito no relé) para ajustarmos relé de
+proteção contra sobrecarga quando este é utilizado em uma partida direta?
+
+5) Qual o critério adotado (ajuste a ser feito no relé) para ajustarmos relé de
+proteção contra sobrecarga quando este é utilizado em uma partida estrela
+triângulo?
+
+6) Qual o critério adotado (ajuste a ser feito no relé) para ajustarmos relé de
+proteção contra sobrecarga quando este é utilizado em uma partida compensada?
+
+7) Porque tipicamente utilizamos o contato NA do relé de proteção contra falta
+de fase nos diagramas de comando?
+
+8) Porque as 3 fases que são ligadas no relé falta de fase não podem estar
+conectadas diretamente no circuito do motor (após  o contator)?
+
+9) Porque não é recomendável que o circuito de alimentação do relé temporizador
+(A1 e A2) fiquem diretamente ligados em paralelo com a bobina dos contatores?
+
+10) Defina intertravamento, e mostre exemplos utilizando botoeiras contatores.
+
+11) Por que a partida estrela – triângulo não é eficiente em motores que partem
+com carga?
+
+12) Por que em uma partida estrela - triângulo, o motor deve atingir 90% da
+rotação nominal para comutarmos de estrela triângulo? 
+
+13) Quando devemos utilizar a partida compensada?
+
+14) Quais os critérios que devem ser adotados para a escolha do TAP em uma partida compensada?
+
+15) Por que devemos utilizar o intertravamento nos circuitos de comando das
+partidas Direta com Reversão e da Partida Estrela - Triângulo?
+
+16) Qual a diferença entre contato de força e de comando?
+
+17) Nas partidas estrela Nas partidas estrela - triângulo e compensada quais são
+as consequências no caso de queima do relé temporizador?
