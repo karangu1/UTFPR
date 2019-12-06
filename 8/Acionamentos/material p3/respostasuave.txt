@@ -1,4 +1,4 @@
-1. regulando a tensao reduzida no motor
+1. regulando a tensao reduzida no motor com chaveamento de tiristores.
 2. a partir de tiristores (scr)
 3. pois a partida suave serve só para a partida e nao controle de velocidade
 4. aumentar a vida util da partida suave, desligando o equipamento e oferecendo
@@ -7,6 +7,8 @@ efetuado.
 5. pois o conversor de frequencia nao pode ser desligado.
 6. nao sei ( acho que o proprio equipamento faz).
 7. porque dá pra configurar uma curva de partida no conversor de frequencia
+    e o conversor de frequencia controla amplitude da tensao, assim como a soft
+    start.
 8. nao sei 
 9. pois diferenca de potencial precisa de dois pontos para ser medida,.
 10. nao sei 

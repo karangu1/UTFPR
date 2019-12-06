@@ -15,6 +15,7 @@ acionados por uma partida suave ou conversor de frequência?
 7. Por que o conversor de frequência pode substituir a partida suave?
 
 8. Uma partida suave com capacidade para partir um motor de 20CV pode ser
+utilizada para partir um motor de 15CV? Por que? O que deve ser feito?
 
 9. Quando um PLC comanda, através de uma saída digital a transistor, uma partida
 suave ou um conversor de frequência, por que o negativo (comum) do PLC e do
@@ -35,8 +36,6 @@ desaceleração?
 
 14. Com base em quais parâmetros (variáveis) devem ser definidos os tempos de
 aceleração e desaceleração?
-
-
 
 15. Qual o objetivo de aplicarmos no início da partida a tensão nominal do motor
 durante alguns milesegundos (booste de tensão) ?
