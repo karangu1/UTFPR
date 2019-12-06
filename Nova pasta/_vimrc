@@ -12,15 +12,16 @@ Plugin 'VundleVim/Vundle.vim'
 "-----------------------------------" 
 
 Plugin 'junegunn/limelight.vim'
+Plugin 'junegunn/goyo.vim'
+Plugin 'dhruvasagar/vim-table-mode'
+Plugin 'dbmrq/vim-ditto'
+
 Plugin 'kkoenig/wimproved.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
-Plugin 'junegunn/goyo.vim'
 Plugin 'maralla/completor.vim'
-Plugin 'dhruvasagar/vim-table-mode'
 Plugin 'davidhalter/jedi-vim'
 Plugin 'morhetz/gruvbox'
-Plugin 'dbmrq/vim-ditto'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -86,8 +87,6 @@ map k gk
 au FocusLost * silent! wa "autosave
 
 let g:table_mode_corner="|"
-let g:NERDTreeDirArrowExpandable = '-'
-let g:NERDTreeDirArrowCollapsible = 'o'
 let g:NERDTreeDirArrowExpandable = ' >'
 let g:NERDTreeDirArrowCollapsible = ' v'
 let g:NERDTreeIndicatorMapCustom = {

@@ -1,0 +1,18 @@
+1. regulando a tensao reduzida no motor
+2. a partir de tiristores (scr)
+3. pois a partida suave serve só para a partida e nao controle de velocidade
+4. aumentar a vida util da partida suave, desligando o equipamento e oferecendo
+um caminho alternativo para a corrente após o comando da partida suave ser
+efetuado.
+5. pois o conversor de frequencia nao pode ser desligado.
+6. nao sei ( acho que o proprio equipamento faz).
+7. porque dá pra configurar uma curva de partida no conversor de frequencia
+8. nao sei 
+9. pois diferenca de potencial precisa de dois pontos para ser medida,.
+10. nao sei 
+11. Pois esses valores nao fazem o motor girar. o mínimo para vazio é 30%
+12. desaceleraçao da bomba.
+13. para nao interferir no soft start.
+14. tempo acel: corrente de partida. tempo desacel. : velocidade das
+bombas/esteiras.
+15. suprir o motor com torque nominal ( 2 a 4 ciclos)

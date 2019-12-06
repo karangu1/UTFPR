@@ -15,17 +15,17 @@ acionados por uma partida suave ou conversor de frequência?
 7. Por que o conversor de frequência pode substituir a partida suave?
 
 8. Uma partida suave com capacidade para partir um motor de 20CV pode ser
-utilizada para partir um motor de 15CV? Por que? O que deve ser feito?
 
 9. Quando um PLC comanda, através de uma saída digital a transistor, uma partida
 suave ou um conversor de frequência, por que o negativo (comum) do PLC e do
 dispositivo de acionamento devem ser interligados?
 
-10. Como tipicamente é feito o ajuste da proteção contra sobrecarga na partida suave?
+10. Como tipicamente é feito o ajuste da proteção contra sobrecarga na partida
+suave?
 
-11. Porque quando é iniciada a rampa de aceleração, não é conveniente que a tensão
-aplicada no motor se inicie em zero, ou valores muito baixos (inferior a 30% da
-tensão nominal do motor)?
+11. Porque quando é iniciada a rampa de aceleração, não é conveniente que a
+tensão aplicada no motor se inicie em zero, ou valores muito baixos (inferior a
+30% da tensão nominal do motor)?
 
 12. Quais os usos típicos das saídas a relé da partida suave?
 

@@ -1,0 +1,32 @@
+1. V = 24V ou 250V
+   I = 10A
+2. produzir potencia resistiva e aquecer o bimetálico
+3. através da corrente que passa por ele (corrente do motor)
+4. o tempo da corrente de sobrecarga do motor dar a partida.
+   corrente nominal x fator de servico
+5. corrente de rotor travado e tempo da partida estrela
+   corrente nominal / raiz de 3 
+6. V = 24V ou 2   I = 10A
+7. pois o FFS está ativo quando as tres fases operam corretamente e desativa
+quando ocorre falta. Logo o normalmente aberto ativado fecha e quando falta
+fase, o relé desativa e fica contato aberto
+8. pois iria curto-circuitar e o comando ia ser perdido ("sempre ativo"). nunca
+ia desligar o motor
+9. pois quando for ativado a corrente do circuito de comando fluirá de maneira
+irregular tanto para A1 e A2 quanto para as bobinas dos contactores, fazendo com
+qque o comando seja mal interpretato e até mesmo compromeitdo 
+10. é a proteçao do circuito de comando e de força, fazendo com que a corrente
+nao passe por dois comandos diferentes. trata-se de abrir um circuito quando o
+outro estiver sendo usado.
+11. Pois o torque na estrela-triangulo é baixo ( corrente é dividida por 1.73).
+12. para que nao haja pico de corrente na comutaçao ao alimentar com a tensao
+nominal. pico este que é próximo ao da partida direta.
+13. quando quisermos partir o motor com e sem carga
+14. O torque da carga em relaçao ao torque nominal do motor.
+15. P dir com reversao - sem intertravamento vai ter curto-circuito dentro do
+motor.(fase fase)
+p estrela triangulo - vai dar curto sem intertravamento (fase fase)
+16. Contato de força - onde liga a tensao que vai pro motor (220v)
+contato de comando - onde liga o circuito de comando (24 volts - 220)
+17. a comutaçao para os valores nominais nao vai ser feita - motor nao vai
+funcionar direito 

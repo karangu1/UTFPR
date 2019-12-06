@@ -41,5 +41,5 @@ partidas Direta com Reversão e da Partida Estrela - Triângulo?
 
 16) Qual a diferença entre contato de força e de comando?
 
-17) Nas partidas estrela Nas partidas estrela - triângulo e compensada quais são
-as consequências no caso de queima do relé temporizador?
+17) Nas partidas estrela - triângulo e compensada quais são as consequências no
+caso de queima do relé temporizador? 
