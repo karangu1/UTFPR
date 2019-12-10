@@ -1,0 +1,76 @@
+\documentclass[idxtotoc,hyperref,openany]{labbook} % 'openany' here removes the gap page between days, erase it to restore this gap; 'oneside' can also be added to remove the shift that odd pages have to the right for easier reading
+
+\usepackage[ 
+  backref=page,
+  pdfpagelabels=true,
+  plainpages=false,
+  colorlinks=true,
+  bookmarks=true,
+  pdfview=FitB]{hyperref} % Required for the hyperlinks within the PDF
+ 
+\usepackage{booktabs} % Required for the top and bottom rules in the table
+\usepackage{float} % Required for specifying the exact location of a figure or table
+\usepackage{graphicx} % Required for including images2
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Command to make the lines in the title page
+\setlength\parindent{0pt} % Removes all indentation from paragraphs
+
+%----------------------------------------------------------------------------------------
+%	DEFINITION OF EXPERIMENTS
+%----------------------------------------------------------------------------------------
+
+\newexperiment{example}{Estudo 1}
+\newexperiment{example2}{Estudo 2}
+\newexperiment{example3}{Estudo 3}
+\newexperiment{example4}{Estudo 4}
+\newexperiment{example5}{Estudo 5}
+
+\begin{document}
+
+%	TITLE PAGE
+
+\frontmatter % Use Roman numerals for page numbers
+\title{
+\begin{center}
+\HRule \\[0.4cm]
+{\Huge \bfseries Resumo de Estudos \\[0.5cm] \Large Laboratório pica das galaxia}\\[0.4cm] % Degree
+\HRule \\[1.5cm]
+\end{center}
+}
+\author{\Huge Layane Tavares \\ \\ \LARGE email@layane.com \\[2cm]} % Your name and email address
+\date{9 de Novembro de 2019} % Beginning date
+\maketitle
+
+\tableofcontents
+
+\mainmatter % Use Arabic numerals for page numbers
+
+\experiment{Estudo 1}
+
+\lipsum[1]
+
+\experiment{Estudo 2} % Multiple experiments can be included in a single day, this allows you to segment what was done each day into separate categories
+
+\experiment{Estudo 3}
+
+\lipsum[3-5]
+
+This is a bulleted list:
+
+\begin{itemize}
+\item Item 1
+\item Item 2
+\item \ldots and so on
+\end{itemize}
+
+\experiment{Estudo 4}
+
+\lipsum[6]
+
+\experiment{Estudo 5}
+
+\lipsum[7]
+
+
+\end{document}

@@ -1,0 +1,35 @@
+\documentclass[idxtotoc,hyperref,openany]{article} % 'openany' here removes the gap page between days, erase it to restore this gap; 'oneside' can also be added to remove the shift that odd pages have to the right for easier reading
+
+ 
+\usepackage{geometry} % to change the page dimensions
+\usepackage[brazil]{babel}
+\usepackage{multicol}
+\usepackage{indentfirst}
+\usepackage{float} % Required for specifying the exact location of a figure or table
+\usepackage{graphicx} % Required for including images2
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\geometry{a4paper, left=3cm, right=3cm, bottom=3cm, top=3cm}
+
+
+%----------------------------------------------------------------------------------------
+%	DEFINITION OF EXPERIMENTS
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%	TITLE PAGE
+
+\title{
+\begin{center}
+{\Huge \textbf{Resumo de Estudos} \\[0.2cm] \Large \textbf{Laboratório pica das galaxia}}\\ % Degree
+\end{center}
+}
+\author{\Huge Layane Tavares \\ \\ \LARGE email@layane.com \\} % Your name and email address
+\date{9 de Novembro de 2019} % Beginning date
+\maketitle
+
+incluindo texto ué 
+
+\include{texto}
+
+\end{document}
