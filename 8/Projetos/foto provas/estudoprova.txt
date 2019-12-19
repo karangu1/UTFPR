@@ -1,0 +1,23 @@
+fase
+Partida:
+- tem que ser maior que as correntes de magnetizacao (soma de todas as magnetizacoes vistas pelo sistema (8*Imaisforte + 4*outros))
+Instantânea
+- tem que ser maior que o menor curto do estabelecimento
+    - Curto fase terra
+    - curto fase terra minimo
+    - curto trifasico refletido ao primári Curto fase terracurto fase terra minimocurto trifasico refletido ao primárioo
+Curva
+- abaixo do religador
+- corrente de curto circuito tem que estar no máximo 0,3 segundos
+
+
+Neutro
+
+Partida
+- 20% do ajuste de fase usado (recomendacao)
+- estar abaixo do valor de ajuste do religador
+Instantanea
+- 20% da instantanea de fase usada (recomendacao)
+- nao usar ajuste iferior a 10% da corrente do TC pq senao ele mede errado
+curva
+- nao tem criterio pro ajuste da curva pq ela nao precisa coordenar 
